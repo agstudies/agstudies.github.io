@@ -27,7 +27,7 @@ url: "http://www.agstudies.co.uk" # the base hostname & protocol for your site, 
 twitter_username: agstudies
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
