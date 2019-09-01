@@ -5,11 +5,8 @@ permalink: /join/
 order: 2
 ---
 
-To get in touch, email Evi Heinz, Paul Ingram
+If you would like to join the study group, there is no need to register, simply come along!
 
-or Robyn Jakeman at:
+You can find a schedule of our upcoming sessions [here](/upcoming-sessions/).
 
-
-[avantgardestudygroup@gmail.com](mailto:avantgardestudygroup@gmail.com)
-
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"a29e4c78bca17e68d8ae414d9","lid":"2880d72499","uniqueMethods":true}) })</script>
+We distribute the reading for each session through our mailing list one week in advance. To sign up to our mailing list, please fill in your email address below.
