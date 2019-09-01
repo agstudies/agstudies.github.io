@@ -12,7 +12,7 @@ We distribute the reading for each session through our mailing list one week in 
 
 | Date/Time | Session | Location |
 |-----------|---------|----------|
-| TBC       | TBC     | TBC      |
+| 2 September 2019       | TBC     | TBC      |
 | TBC       | TBC     | TBC      |
 | TBC       | TBC     | TBC      |
 | TBC       | TBC     | TBC      |
