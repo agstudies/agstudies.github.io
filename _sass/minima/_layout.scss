@@ -109,13 +109,20 @@
   }
 }
 
+.event-title {
+  display: inline-block;
+  background-color: #4d8490;
+  color: white;
+  padding: 15px;
+  font-weight: bold;
+}
 
 
 /**
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 2px solid white;
   padding: $spacing-unit 0;
 }
 
