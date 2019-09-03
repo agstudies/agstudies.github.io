@@ -63,6 +63,118 @@ The sessions have been devised by participants in the group, including Lucy Burn
   </tr>
 </table>
 
+<!-- Spring 2018/19 -->
+
+<table>
+  <tr>
+    <th colspan="2" align= center>Spring 2018/19</th>
+  </tr>
+  <tr>
+    <td align= center width="20%">19 March 2019</td>
+    <td width ="80%"><b>Black Mountain Pedagogy</b><br>Anni Albers, 'Work With Material', 'One Aspect of Art Work'<br>Charles Olson, 'Projective Verse', 'Introductory Statement for Black Mountain College Catalogue', 'A Draft of a Plan for the College'</td>
+  </tr>
+  <tr>
+    <td align= center>5 March 2019</td>
+    <td>Hannah Höch, <i>Anxiety</i>, <i>Bourgeois Bridal Couple (Quarrel)</i>, <i>Cube</i>, <i>Cut With the Kitchen Knife Dada Through the Last Weimar Beer Belly Cultural Epoch of Germany</i>, <i>Degenerate</i>, <i>Dolls</i>, <i>Flight</i>, <i>Heads of State</i>, <i>Journey into the Unknown</i>, <i>Little Sun</i>, <i>Mother (From an Ethnographic Museum)</i>, <i>On the Nile II</i>, <i>The Fence</i>, <i>The Sweet One (From an Ethnographic Museum)</i></td>
+  </tr>
+  <tr>
+    <td align= center>19 February 2019</td>
+    <td>Georges Perec, <i>The Art and Craft of Approaching Your Head of Department to Submit a Request for a Raise</i></td>
+  </tr>  
+  <tr>
+    <td align= center>5 February 2019</td>
+    <td><b>Two Modernist Long Poems</b><br>Hope Mirrlees, <i>Paris</i><br>Nancy Cunard, <i>Parallax</i></td>
+  </tr>  
+  <tr>
+    <td align= center>22 January 2019</td>
+    <td><b>Killing John Bull With Art: Frida Strindberg's Cabaret Theatre Club</b><br>'Aims and Programme of the Cabaret Theatre Club', 'The Press and the Cabaret Club'<br>Wyndham Lewis, 'Kill John Bull With Art'</td>
+  </tr>
+</table>
+
+<!-- Autumn 2018/19 -->
+
+<table>
+  <tr>
+    <th colspan="2" align= center>Autumn 2018/19</th>
+  </tr>
+  <tr>
+    <td align= center width="20%">9 October 2018</td>
+    <td width ="80%"><b>The Ballets Russes</b><br>Sergei Diaghilev, 'Eternal Conflict', 'Our Supposed Decline'<br><i>The Rite of Spring</i>, <i>Parade</i></td>
+  </tr>
+  <tr>
+    <td align= center>23 October 2018</td>
+    <td>Hugh MacDiarmid, <i>Three Hymns to Lenin</i></td>
+  </tr>
+  <tr>
+    <td align= center>6 November 2018</td>
+    <td><b>Helen Saunders, the New Freewoman and the Breaking of Binary Bonds</b><br>Helen Saunders, <i>Female Figures Imprisoned</i>, <i>Hammock</i><br>Dora Marsden, 'Views and Comments'<br>Henri Bergson, 'An Introduction to Metaphysics'</td>
+  </tr>  
+  <tr>
+    <td align= center>20 November 2018</td>
+    <td><b>Scapigliatura and Italian Futurism</b><br>Libero Altomare, 'Sinfonia luminosa', 'La morte', 'Ricami d'ombra'<br>Mario Bètuda, 'Voluttà'<br>Arrigo Boito, 'Literary Polemic', 'A Giovanni Camerana', 'Lezione d'anatomia', 'Case nuove'<br>Giovanni Camerana, 'A Emilio Praga'<br>G. Manzella-Frontini, 'Sala anatomica'<br>F.T. Marinetti, 'Technical Manifesto of Futurist Literature', La battaglia di Tripoli<br>Armando Mazza, 'A Venezia'<br>Emilio Praga, 'Seraphina', 'A un feto', 'Dama elegante', 'Verità', 'Orgia', 'La libreria'</td>
+  </tr>  
+  <tr>
+    <td align= center>4 December 2018</td>
+    <td>Amos Tutuola, <i>The Palm-Wine Drinkard</i></td>
+  </tr>
+</table>
+
+<!-- Summer 2017/18 -->
+
+<table>
+  <tr>
+    <th colspan="2" align= center>Summer 2017/18</th>
+  </tr>
+  <tr>
+    <td align= center width="20%">26 June 2018</td>
+    <td width ="80%">Jackson Mac Low,'Asymmetries', 'Drawing Asymmetries', 'Thanks' 'The Text'</td>
+  </tr>
+  <tr>
+    <td align= center>12 June 2018</td>
+    <td><b>Modifications and disfigurations</b><br>Asger Jorn, <i>Choux</i>, <i>Brotherhood Above All</i>, <i>The Avant-Garde Won’t Give Up</i>, <i>The Disquieting Duck</i>, <i>Temptation</i>, <i>Mater Profana</i>, <i>Modification with Breton Wife</i>, <i>Paris by Night</i></td>
+  </tr>
+  <tr>
+    <td align= center>29 May 2018</td>
+    <td>Aimé Césaire, <i>Notebook of a Return to the Native Land</i></td>
+  </tr>  
+  <tr>
+    <td align= center>15 May 2018</td>
+    <td><b>Creationism</b><br>Vicente Huidobro, <i>Kaleidoscope</i>, <i>Midnight</i>, <i>6 O’Clock – October</i>, 'Non Serviam', 'Warning to Tourists', 'We Must Create'</td>
+  </tr>  
+  <tr>
+    <td align= center>1 May 2018</td>
+    <td>Wyndham Lewis, <i>Enemy of the Stars</i></td>
+  </tr>
+</table>
+
+<!-- Spring 2017/18 -->
+
+<table>
+  <tr>
+    <th colspan="2" align= center>Spring 2017/18</th>
+  </tr>
+  <tr>
+    <td align= center width="20%">13 March 2018</td>
+    <td width ="80%"><i>Cancelled in solidarity with industrial action.</i></td>
+  </tr>
+  <tr>
+    <td align= center>27 February 2018</td>
+    <td><i>Cancelled in solidarity with industrial action.</i></td>
+  </tr>
+  <tr>
+    <td align= center>12 February 2018</td>
+    <td>John Rodker (trans.), <i>The Lay of Maldoror</i></td>
+  </tr>  
+  <tr>
+    <td align= center>30 January 2018</td>
+    <td>Dmitri Shostakovich, <i>Anti-Formalist Rayok</i></td>
+  </tr>  
+  <tr>
+    <td align= center>16 January 2018</td>
+    <td><b>Readymades</b><br>Elsa von Freytag-Loringhoven, <i>Cathedral</i>, <i>Enduring Ornament</i>, <i>God</i>, <i>Limbswish</i>, <i>Portrait of Marcel Duchamp</i><br>Marcel Duchamp, <i>Belle Haleine Eau de Voilette (with Man Ray)</i>, <i>Bicycle Wheel</i>, <i>Fountain</i>, <i>LHOOQ</i>, <i>Why Not Sneeze Rose Sélavy?</i></td>
+  </tr>
+</table>
+
 <!-- Autumn 2017/18 -->
 
 <table>
