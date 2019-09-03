@@ -4,11 +4,51 @@ title: Upcoming Sessions
 permalink: /upcoming-sessions/
 order: 3
 ---
+<!--
+| Date/Time                 | Session             | Location |
+|-----------                |---------------------|----------|
+| 8 October 2019, 7 pm      | New Objectivity     | TBC      |
+| 22 October 2019, 7 pm     | Tarsila do Amaral   | Room 106, Birkbeck School of Arts      |
+| 5 November 2019, 7 pm     | Pataphysics         | TBC      |
+| 19 November 2019, 7 pm    | Mina Loy, _Insel_   | TBC      |
+| 3 December 2019, 7 pm     | Niall Montgomery    | TBC      |
+-->
 
-| Date/Time                 | Session | Location |
-|-----------                |---------|----------|
-| 8 October 2019, 7 pm      | TBC     | TBC      |
-| 22 October 2019, 7 pm     | TBC     | TBC      |
-| 5 November 2019, 7 pm     | TBC     | TBC      |
-| 19 November 2019, 7 pm    | TBC     | TBC      |
-| 3 December 2019, 7 pm     | TBC     | TBC      |
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Session</th>
+    <th>Location</th>
+  </tr>
+  <tr>
+    <td width="20%">8 October 2019</td>
+    <td width ="15%">7-9 pm</td>
+    <td width="25%"><b>New Objectivity</b></td>
+    <td width="40%">TBC</td>
+  </tr>
+  <tr>
+    <td>22 October 2019</td>
+    <td>7-9 pm</td>
+    <td><b>Tarsila do Amaral</b></td>
+    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square,<br>London WC1H 0PD</td>
+  </tr>
+  <tr>
+    <td>5 November 2019</td>
+    <td>7-9 pm</td>
+    <td><b>Pataphysics</b></td>
+    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square,<br>London WC1H 0PD</td>
+  </tr>  
+  <tr>
+    <td>19 November 2019</td>
+    <td>7-9 pm</td>
+    <td><b>Mina Loy, <i>Insel</i></b></td>
+    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square,<br>London WC1H 0PD</td>
+  </tr>  
+  <tr>
+    <td>3 December 2019</td>
+    <td>7-9 pm</td>
+    <td><b>Niall Montgomery</b></td>
+    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square,<br>London WC1H 0PD</td>
+  </tr>
+</table>
