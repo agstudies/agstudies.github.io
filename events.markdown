@@ -5,8 +5,6 @@ permalink: /events/
 order: 5
 ---
 
-## Upcoming Events
-
 More AGS events coming soon ...  
 <br><br>
 

@@ -4,5 +4,5 @@
 
 layout: home
 title: Blog
-order: 1
+order: 0 
 ---

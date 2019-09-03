@@ -5,12 +5,17 @@ permalink: /join/
 order: 2
 ---
 
-If you would like to join the study group, there is no need to register, simply come along!
+<div style= "display:block;">
+  <p>The study group is open to all with an interest in the historical avant-garde - you don't need to be a student or researcher to join.  
+  </p>
 
-You can find a schedule of our upcoming sessions [here](/upcoming-sessions/).
+  <p>To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions <a href="/upcoming-sessions">here</a>.
+  </p>
 
-The reading for each session is distributed through our mailing list one week in advance. To sign up to our mailing list, please fill in your email address below.
-
+  <p>The reading for each session is distributed through our mailing list one week in advance. To sign up to our mailing list, please fill in your email address below.
+  </p>
+</div>
+<br>
 <!-- Begin Mailchimp Signup Form -->
 
 

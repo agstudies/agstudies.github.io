@@ -4,15 +4,8 @@ title: Upcoming Sessions
 permalink: /upcoming-sessions/
 order: 3
 ---
-<!--
-| Date/Time                 | Session             | Location |
-|-----------                |---------------------|----------|
-| 8 October 2019, 7 pm      | New Objectivity     | TBC      |
-| 22 October 2019, 7 pm     | Tarsila do Amaral   | Room 106, Birkbeck School of Arts      |
-| 5 November 2019, 7 pm     | Pataphysics         | TBC      |
-| 19 November 2019, 7 pm    | Mina Loy, _Insel_   | TBC      |
-| 3 December 2019, 7 pm     | Niall Montgomery    | TBC      |
--->
+
+Below is a calendar of our upcoming sessions for the Autumn term 2019/20.<br><br>
 
 <table>
   <tr>
@@ -52,3 +45,5 @@ order: 3
     <td>Room 106, Birkbeck School of Arts, 43 Gordon Square,<br>London WC1H 0PD</td>
   </tr>
 </table>
+
+For a list of all previous sessions click [here](/past-sessions).

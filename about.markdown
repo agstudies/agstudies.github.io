@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Home
-permalink: /home/
-order: 0
+title: About
+permalink: /about/
+order: 1
 ---
 
 <!-- Twitter embed -->
