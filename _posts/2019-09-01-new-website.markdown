@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "New Website"
+title: "New sessions added, Autumn 2019/20"
 ---
-Hello! We have a new website. Isn't it great?
+A calendar of our upcoming sessions for Autumn 2019/20 is now available [here](/upcoming-sessions).
