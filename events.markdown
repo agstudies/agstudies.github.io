@@ -11,7 +11,7 @@ More AGS events coming soon ...
 ## Past Events
 
 <div>
-  <img style="display:block; float:right;" width=300px src="/images/Entracte.png"/>
+  <img style="display:block; float:right;" src="/images/Entracte.png" width="300"/>
   <p class="event-title"> Avant-Garde Film Night: <i>Entr'acte</i> and Other Shorts</p>
   <p><b>7 December 2018, 6 pm<br>Birkbeck Cinema<br>43 Gordon Sq, London, WC1H 0PD<br>Free admission<br></b>
   </p>
