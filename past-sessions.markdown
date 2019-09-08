@@ -40,11 +40,11 @@ The sessions have been devised by participants in the group, including Lucy Burn
 
 <table>
   <tr>
-    <th colspan="2" align= center>Summer 2018/19</th>
+    <th colspan="2" align="center">Summer 2018/19</th>
   </tr>
   <tr>
-    <td align= center width="20%">2 July 2019</td>
-    <td width ="80%">Djuna Barnes, <i>Nightwood</i></td>
+    <td align="center" width="20%">2 July 2019</td>
+    <td width="80%">Djuna Barnes, <i>Nightwood</i></td>
   </tr>
   <tr>
     <td align= center>18 June 2019</td>
