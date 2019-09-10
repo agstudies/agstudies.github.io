@@ -233,9 +233,8 @@ table {
   color: lighten($text-color, 18%);
   border-collapse: collapse;
   tr {
-      background-color: lighten($background-color, 2%);
     &:nth-child(even) {
-      background-color: lighten($grey-color-light, 2%);
+      background-color: lighten($grey-color-light, 3%);
     }
   }
   th, td {
