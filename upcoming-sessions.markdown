@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Upcoming Sessions
 permalink: /upcoming-sessions/
 order: 3
 ---
