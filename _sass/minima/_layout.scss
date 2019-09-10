@@ -1,10 +1,31 @@
 /**
  * Site header
  */
+
+ .banner {
+   width: 100%;
+   height: 165px;
+   text-align: center;
+   background-image: url("/images/Banner.jpg");
+ }
+
+ #logo {
+   width: 135px;
+   height: 135px;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+ .navbar {
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+ }
+
 .site-header {
   border-bottom: 3px solid white;
-  padding-top: 20px;
-  padding-bottom: 10px;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -27,7 +48,6 @@
 }
 
 .site-nav {
-  float: right;
   line-height: $base-line-height * 2.25;
   font-size: 18;
   font-weight: bold;
@@ -51,10 +71,10 @@
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 80px;
     }
   }
-
+}
 
   @include media-query($on-palm) {
     position: absolute;
@@ -108,22 +128,44 @@
       margin-left: 20px;
     }
   }
-}
 
-.event-title {
-  display: inline-block;
-  background-color: #4d8490;
+  /**
+   * Events
+   */
+#event {
+    height: 550px;
+    display: block;
+      }
+
+#event-title {
+  width: 100%;
+  background-color: $brand-color;
   color: white;
-  padding: 15px;
+  padding: 10px 0px 10px 0px;
   font-weight: bold;
+  float:top;
+  text-align: center;
 }
 
+#event-img {
+  margin-left: auto;
+  margin-right: 0;
+  width: 40%;
+  padding: 15px;
+}
 
+#event-info {
+  padding: 40px 15px 5px 15px;
+}
+
+#event-blurb {
+  padding: 15px;
+}
 /**
  * Site footer
  */
 .site-footer {
-  border-top: 2px solid white;
+  border-top: 3px solid white;
   padding: $spacing-unit 0;
 }
 
@@ -187,9 +229,48 @@
   }
 }
 
+.twitter-timeline {
+  float: right;
+}
+
+#banner-source {
+  font-size: $small-font-size;
+}
 /**
  * Page content
  */
+
+.container {
+   width: 100%;
+   height: 300px;
+   display: flex;
+   align-items: center;
+   }
+
+.main {
+   float: left;
+   width: 50%;
+ }
+
+.figure {
+   border-style: solid;
+   border-color: $pink-color-light;
+   border-width: 20px 20px 10px 20px;
+   border-radius: 5px;
+ }
+
+ .caption {
+   padding-top: 10px;
+   background-color: $pink-color-light;
+
+ }
+
+#about-img {
+  margin-left: auto;
+  margin-right: 0;
+  width: 250px;
+}
+
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
@@ -266,3 +347,41 @@
     }
   }
 }
+
+/**
+ * Mailchimp signup form
+*/
+
+#mailchimp {
+	background: $brand-color;
+	color: white;
+	padding: 10px 15px;
+  border: 1px solid $brand-color;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+	#mailchimp input {
+		border: medium none;
+    color: $grey-color;
+    font-size: 12px;
+    margin-bottom: 10px;
+    padding: 8px 10px;
+    width: 280px;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+	}
+		#mailchimp input.email { background: white}
+		#mailchimp input.name { background: #fff}
+		#mailchimp input[type="submit"] {
+			background: $brand-color-dark;
+			color: white;
+			cursor: pointer;
+			font-size: 15px;
+			width: 35%;
+			padding: 8px 0;
+
+		}
+			#mailchimp input[type="submit"]:hover { color: $pink-color-light }

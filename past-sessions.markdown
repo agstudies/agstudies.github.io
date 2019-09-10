@@ -1,10 +1,8 @@
 ---
 layout: page
 permalink: /past-sessions/
-
 ---
-
-<h1>Past Sessions</h1>
+## Past Sessions
 
 The sessions have been devised by participants in the group, including Lucy Burns, Alessandro Cabiati, Iris Colomb, Jo Cottrell, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Matt Martin and Michał Piotrowski.<br><br><br>
 

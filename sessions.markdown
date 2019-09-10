@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Upcoming Sessions
-permalink: /upcoming-sessions/
+title: Sessions
+permalink: /sessions/
 order: 3
 ---
 
