@@ -293,6 +293,7 @@
 	color: black;
 	padding: 20px 15px;
 }
+
 	#mailchimp input {
 		border: medium none;
     color: $grey-color;
@@ -305,6 +306,7 @@
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
+
 		#mailchimp input.email { background: #fff }
 		#mailchimp input.name { background: #fff}
 		#mailchimp input[type="submit"] {
@@ -314,6 +316,6 @@
 			font-size: $base-font-size;
 			width: 150px;
 			padding: 8px 0;
-
 		}
+    
 			#mailchimp input[type="submit"]:hover { color: $pink-color }
