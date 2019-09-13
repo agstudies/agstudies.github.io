@@ -43,10 +43,11 @@
 }
 
 .site-nav {
-  float: right;
   line-height: $base-line-height * 2.25;
   font-size: 18;
   font-weight: bold;
+  text-align: center;
+}
 
   .nav-trigger {
       display: none;
