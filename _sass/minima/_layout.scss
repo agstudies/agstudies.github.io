@@ -282,3 +282,38 @@
     }
   }
 }
+
+/**
+ * Mailchimp sign-up
+ */
+
+#mailchimp {
+  width: 50%;
+	background: $background-color;
+	color: black;
+	padding: 20px 15px;
+}
+	#mailchimp input {
+		border: medium none;
+    color: $grey-color;
+    font-size: $base-font-size * 0.8;
+    font-style: italic;
+    margin-bottom: 10px;
+    padding: 8px 10px;
+    width: 300px;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+	}
+		#mailchimp input.email { background: #fff }
+		#mailchimp input.name { background: #fff}
+		#mailchimp input[type="submit"] {
+			background: $brand-color;
+			color: #fff;
+			cursor: pointer;
+			font-size: $base-font-size;
+			width: 35%;
+			padding: 8px 0;
+
+		}
+			#mailchimp input[type="submit"]:hover { color: $pink-color }
