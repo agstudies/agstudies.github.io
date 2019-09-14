@@ -18,6 +18,13 @@
   height: 160px;
 }
 
+@include media-query($on-palm) {
+  .logo {
+    min-width: 165px;
+  }
+}
+
+
 .site-header {
   border-bottom: 3px solid white;
   padding-top: 0px;
