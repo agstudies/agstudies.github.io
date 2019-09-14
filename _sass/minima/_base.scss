@@ -57,7 +57,16 @@ img {
   vertical-align: middle;
 }
 
-
+img[src*="#artwork"] {
+  height:200px;
+   width:auto;
+   display: block;
+   margin-left: auto;
+   margin-right: 15px;
+   float: left;
+   border: 10px solid $pink-color;
+   border-radius: 5px;
+}
 
 /**
  * Figures
