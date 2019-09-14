@@ -54,31 +54,44 @@ main {
  */
 img {
   vertical-align: middle;
-}
-
-.artwork {
-   height:200px;
-   width:auto;
-   display: block;
-   margin-left: auto;
-   margin-right: 15px;
-   float: left;
-   border: 10px solid $pink-color;
-   border-radius: 5px;
+  max-width: 180px;
 }
 
 /**
  * Figures
  */
-figure > img {
+
+figure.artwork-right {
+  height:auto;
+  width:180px;
   display: block;
+  margin-left: 25px;;
+  margin-right: auto;
+  border: 10px solid lighten($brand-color, 10%);
+  border-radius: 5px;
+  float: right;
 }
 
-figcaption {
+figure.artwork-left {
+  height:auto;
+  width:180px;
+  display: block;
+  margin-left: auto;
+  margin-right: 25px;
+  border: 10px solid $pink-color-light;
+  border-radius: 5px;
+  float: left;
+}
+
+figcaption.artwork-right {
   font-size: $small-font-size;
+  background: lighten($brand-color, 10%);
 }
 
-
+figcaption.artwork-left {
+  font-size: $small-font-size;
+  background: $pink-color-light;
+}
 
 /**
  * Lists
