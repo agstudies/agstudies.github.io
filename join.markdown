@@ -5,7 +5,7 @@ permalink: /join/
 order: 2
 ---
 
-![God](/images/god.jpg#artwork)
+<img class="artwork" src="/images/god.jpg">
 
 The study group is open to all with an interest in the historical avant-garde - you don't need to be a student or researcher to join.  
 
