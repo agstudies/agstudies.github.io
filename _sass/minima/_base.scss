@@ -55,13 +55,13 @@ main {
 img {
   vertical-align: middle;
   max-width: 180px;
-}
-
-@include media-query($on-palm) {
-  img {
-    max-width: 120px;
+  @include media-query($on-palm) {
+    img {
+      max-width: 120px;
+    }
   }
 }
+
 /**
  * Figures
  */
@@ -75,11 +75,10 @@ figure.artwork-right {
   border: 10px solid lighten($brand-color, 10%);
   border-radius: 5px;
   float: right;
-}
-
-@include media-query($on-palm) {
-  figure.artwork-right {
-    max-width: 120px;
+  @include media-query($on-palm) {
+    figure.artwork-right {
+      max-width: 120px;
+    }
   }
 }
 
@@ -92,11 +91,10 @@ figure.artwork-left {
   border: 10px solid $pink-color-light;
   border-radius: 5px;
   float: left;
-}
-
-@include media-query($on-palm) {
-  figure.artwork-left {
-    max-width: 120px;
+  @include media-query($on-palm) {
+    figure.artwork-left {
+      max-width: 120px;
+    }
   }
 }
 
