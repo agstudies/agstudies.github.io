@@ -278,6 +278,9 @@ table {
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    @include media-query($on-palm) {
+        padding: ($spacing-unit / 3) ($spacing-unit / 6);
+    }
   }
   th {
     background-color: $pink-color-light;
