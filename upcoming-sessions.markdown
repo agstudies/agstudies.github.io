@@ -18,7 +18,8 @@ Below is a calendar of our upcoming sessions for the Autumn term 2019/20.<br><br
     <td width="20%">8 October 2019</td>
     <td width ="15%">7-9 pm</td>
     <td width="25%"><b>New Objectivity</b></td>
-    <td width="40%">TBC</td>
+    <td width="40%">Room 218, Birkbeck School of Arts, 43 Gordon Square,<br>
+London WC1H 0PD</td>
   </tr>
   <tr>
     <td>22 October 2019</td>
