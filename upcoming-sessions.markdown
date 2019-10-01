@@ -47,4 +47,14 @@ London WC1H 0PD</td>
   </tr>
 </table>
 
+<!-- Share buttons BEGIN -->
+<div class="a2a_kit a2a_kit_size_25 a2a_default_style" data-a2a-icon-color="#828282">
+  <a class="a2a_button_facebook"></a>
+  <a class="a2a_button_twitter"></a>
+  <a class="a2a_button_email"></a>
+  <a class="a2a_button_whatsapp"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script><br>
+<!-- Share buttons END -->
+
 For a list of all previous sessions click [here](/past-sessions).
