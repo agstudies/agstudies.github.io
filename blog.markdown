@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
-order: 2
+title: About
+permalink: /about/
+order: 3
 ---
 
 <figure class="artwork-left">
