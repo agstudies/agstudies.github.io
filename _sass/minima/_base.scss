@@ -73,6 +73,12 @@ img.figure-image {
     width: 180px;
 }
 
+@include media-query($on-palm) {
+  img.figure-image {
+    max-width: 120px;
+  }
+}
+
 figure.artwork-right {
   height:auto;
   width:180px;
