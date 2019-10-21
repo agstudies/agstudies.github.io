@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Join
+title:
 permalink: /join/
-order: 2
+order: 1
 ---
 
 <figure class="artwork-right">
@@ -10,11 +10,12 @@ order: 2
   <figcaption class="artwork-right">Vicente Huidobro, <i>Minuit</i> (1920-22)</figcaption>
 </figure>
 
-**The study group is open to all** with an interest in the historical avant-garde - you don't need to be a student or researcher to join.  
 
-To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions **[here](../upcoming-sessions)**.
+**The AG study group is open to all** with an interest in the historical avant-garde - you don’t need to be a student or researcher to join.
 
-The reading for each session is distributed through our mailing list one week in advance. To **sign up to our mailing list**, please fill in your email address below.
+To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
+
+The reading for each session is distributed through our mailing list one week in advance. To sign up to our mailing list, please fill in your email address below.
 
 
 <!-- Begin Mailchimp Signup Form -->

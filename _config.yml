@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Avant-Garde Study Group
+title: Avant-Garde Studies
 email: mail@agstudies.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Avant-Garde Study Group

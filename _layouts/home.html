@@ -4,15 +4,53 @@ layout: default
 
 <div class="home">
 
-  <!-- {%- if page.title -%}
+  {%- if page.title -%}
     <h2 class="page-heading">{{ page.title }}</h2>
-  {%- endif -%} -->
+  {%- endif -%}
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
+    <!--<h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h2> -->
+
+    <div class="row">
+      <div class="leftcolumn">
+        {%- for post in site.posts -%}
+              <div class="card">
+                <div class="post-img">
+                  <a href="{{ post.url | relative_url }}">
+                    <img src="{{ post.image_path }}"/>
+                  </a>
+                </div>
+                {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+                <h4>
+                  <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                  </a>
+                  <span class="post-meta">By {{ post.author }}</span>
+                </h4>
+                  {{ post.description }}
+              </div>
+        {%- endfor -%}
+      </div>
+      <div class="rightcolumn">
+        <div class="card" id="info">
+          <h3>Archive</h3>
+          <p><b>October 2019</b></p>
+          <p><a href="/2019/10/17/call-for-contributions.html">Call for Contributions</a></p>
+        </div>
+        <div class="card" id="info">
+          <h3>Contributions</h3>
+          <p> We invite contributions to our blog in different formats and modes - written, photographic, video or audio, creative, critical, theoretical or anecdotal. Send your pieces and enquiries to <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>.
+        </div>
+      </div>
+  </div>
+<!-- RSS feed
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+-->
+<!--  <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -32,3 +70,4 @@ layout: default
   {%- endif -%}
 
 </div>
+-->

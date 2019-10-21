@@ -133,13 +133,6 @@
   }
 }
 
-.event-title {
-  display: inline-block;
-  background-color: #4d8490;
-  color: white;
-  padding: 15px;
-  font-weight: bold;
-}
 
 
 /**
@@ -309,12 +302,63 @@ figure.event-right {
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $text-color;
+  font-weight: bold;
+  margin-top: 10px;
 }
 
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+}
+
+.leftcolumn {
+  float: left;
+  width: 65%;
+}
+
+.rightcolumn {
+  float: left;
+  width: 30%;
+  padding-left: 20px;
+}
+
+.post-img {
+  background-color: #aaa;
+  width: 100%;
+  margin-bottom: 10px;
+
+}
+
+.card {
+  background-color: lighten($brand-color, 10%);
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.card:nth-of-type(even) {
+    background-color: $pink-color-light;
+}
+
+#info {
+  background-color: lighten($grey-color-light, 3%);
+}
+
+.card img {
+  width: 100%;
+}
+
+@include media-query($on-palm) {
+  .card img {
+    width: 100%;
+  }
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 /**
@@ -370,7 +414,8 @@ figure.event-right {
   width: 50%;
 	background: $background-color;
 	color: black;
-	padding: 20px 15px;
+	padding: 20px 20px;
+  margin-left: 30%;
 }
 
 	#mailchimp input {
