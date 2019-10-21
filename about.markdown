@@ -15,7 +15,7 @@ order: 3
 Through our **[blog](../)**, regular **[study group](../study-group)** sessions and one-off **[events](../events)**, we aim to create an inclusive space for discussion and debate across a range of disciplines, including but not limited to literature, painting, sculpture, photography, music, film, dance and performance.
 
 Sign up to our mailing list below to be kept up-to-date about upcoming sessions and events.
-
+<br><br><br>
 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mailchimp">
