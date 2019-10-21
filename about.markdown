@@ -12,7 +12,7 @@ order: 3
 
 **Avant-Garde Studies** is a forum for discussing the historical avant-garde (Futurism, Dada, Surrealism, etc.) as well as other forms of experimentation in 19th and 20th-century art.
 
-Through our **[blog](../blog)**, regular **[study group](../study-group)** sessions and one-off **[events](../events)**, we aim to create an inclusive space for discussion and debate across a range of disciplines, including but not limited to literature, painting, sculpture, photography, music, film, dance and performance.
+Through our **[blog](../)**, regular **[study group](../study-group)** sessions and one-off **[events](../events)**, we aim to create an inclusive space for discussion and debate across a range of disciplines, including but not limited to literature, painting, sculpture, photography, music, film, dance and performance.
 
 Sign up to our mailing list below to be kept up-to-date about upcoming sessions and events.
 
