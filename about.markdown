@@ -15,7 +15,10 @@ order: 3
 Through our **[blog](../)**, regular **[study group](../study-group)** sessions and one-off **[events](../events)**, we aim to create an inclusive space for discussion and debate across a range of disciplines, including but not limited to literature, painting, sculpture, photography, music, film, dance and performance.
 
 Sign up to our mailing list below to be kept up-to-date about upcoming sessions and events.
-<br><br><br>
+<br><br>
+<!-- Twitter button-->
+<a href="https://twitter.com/agstudies?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @agstudies</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mailchimp">
@@ -35,15 +38,3 @@ Sign up to our mailing list below to be kept up-to-date about upcoming sessions 
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
-<!--
-
-**The Avant-Garde Study Group** is a forum for discussing the historical avant-garde (Futurism, Dada, Surrealism, etc.) as well as other forms of experimentation in 19th and 20th-century art. We look at work in a range of disciplines, including but not limited to literature, painting, sculpture, photography, music, film, dance and performance.
-
-We meet every other week during term time at the Birkbeck School of Arts. Our sessions are **open to all, run collectively and shaped by the interests of the participants.** -->
-
-<!-- Twitter button
-
-  <a href="https://twitter.com/agstudies?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @agstudies</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-  -->
