@@ -23,35 +23,34 @@ The reading for each session is distributed through our mailing list one week in
     <th>Location</th>
   </tr>
   <tr>
-    <td width="20%">8 October 2019</td>
+    <td width="20%">21 January 2020</td>
     <td width ="15%">7-9 pm</td>
-    <td width="25%"><b>New Objectivity</b></td>
-    <td width="40%">Room 218, Birkbeck School of Arts, 43 Gordon Square,<br>
-London WC1H 0PD</td>
+    <td width="25%"><b>TBC</b></td>
+    <td width="40%">TBC</td>
   </tr>
   <tr>
-    <td>22 October 2019</td>
+    <td>4 February 2020</td>
     <td>7-9 pm</td>
-    <td><b>Tarsila do Amaral</b></td>
-    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square,<br>London WC1H 0PD</td>
+    <td><b>TBC</b></td>
+    <td>TBC</td>
   </tr>
   <tr>
-    <td>5 November 2019</td>
+    <td>18 February 2020</td>
     <td>7-9 pm</td>
-    <td><b>Pataphysics</b></td>
-    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square,<br>London WC1H 0PD</td>
+    <td><b>TBC</b></td>
+    <td>TBC</td>
   </tr>  
   <tr>
-    <td>19 November 2019</td>
+    <td>3 March 2020</td>
     <td>7-9 pm</td>
-    <td><b>Mina Loy, <i>Insel</i></b></td>
-    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square,<br>London WC1H 0PD</td>
+    <td><b>TBC</b></td>
+    <td>TBC</td>
   </tr>  
   <tr>
-    <td>3 December 2019</td>
+    <td>17 March 2020</td>
     <td>7-9 pm</td>
-    <td><b>Niall Montgomery</b></td>
-    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square,<br>London WC1H 0PD</td>
+    <td><b>TBC</b></td>
+    <td>TBC</td>
   </tr>
 </table>
 

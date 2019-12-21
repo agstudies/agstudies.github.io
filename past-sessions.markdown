@@ -6,7 +6,7 @@ permalink: /past-sessions/
 
 <h1>Past Sessions</h1>
 
-The sessions have been devised by participants in the group, including Lucy Burns, Alessandro Cabiati, Iris Colomb, Jo Cottrell, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Matt Martin and Michał Piotrowski.<br><br><br>
+The sessions have been devised by participants in the group, including Lucy Burns, Alessandro Cabiati, Iris Colomb, Jo Cottrell, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin and Michał Piotrowski.<br><br><br>
 
 <!-- table template
 <table>
@@ -35,6 +35,57 @@ The sessions have been devised by participants in the group, including Lucy Burn
   </tr>
 </table>
 --->
+
+<!-- Autumn 2019/20 -->
+
+<table>
+  <tr>
+    <th colspan="2" align= center>Autumn 2019/20</th>
+  </tr>
+  <tr>
+    <td align= center width="20%">8 October 2019</td>
+    <td width ="80%"><b>New Objectivity</b><br>
+    Aenne Biermann, <i>Blick aus meinem Atelierfenster</i>, <i>Dame mit Monokel</i>, <i>Gänse hinter Gatter</i><br>
+    Albert Renger-Patzsch, <i>Erzgebirge Holzschnitzer</i>, <i>Hörder Verein (Dortmund)</i>, <i>Magneteisenerz (Pfitsch, Tirol)</i><br>
+    Albert Steiner, <i>Liegehalle der Chirurgischen Klinik der Zürcher Heilstätte (Davos)</i>, <i>Untitled</i>, <i>Winterlandschaft bei Inner-Arosa</i><br>
+    August Sander, <i>Blind Girls</i>, <i>Jobless</i>, <i>Peddler</i><br>
+    Erich Retzlaff, <i>Die von der Scholle</i>, <i>Die von der Scholle 2</i>, <i>Menschen am Werk</i><br>
+    Jakob Tuggener, <i>Laufmädchen in der Maschinenfabrik Oerlikon</i>, <i>Power Station La Grande Dixence</i>, <i>Tornos Machine-tool Factory, Moutier</i><br>
+    Walter Benjamin, 'Little History of Photography'
+    </td>
+  </tr>
+  <tr>
+    <td align= center>22 October 2019</td>
+    <td><b>Tarsila do Amaral</b><br>
+    Tarsila do Amaral, <i>Retrato de Oswald de Andrade</i>, <i>A Cuca</i>,
+    <i>A Negra</i>, <i>Abaporu</i>, <i>Antropofagia</i>, <i>Auto retrato</i>,
+    <i>Calmaria II</i>, <i> Carnaval em Madureira</i>, <i> Cidade (a rua)</i>,
+    <i>E.F.C.B.</i>, <i>Morro da Favela</i>, <i>O lago</i>, <i>O sono</i>,
+    <i>Opérarios</i>, <i>São Paulo</i>, <i>Segunda classe</i>, <i>Urutu</i><br>
+    Oswald de Andrade, 'Cannibalist Manifesto'
+    </td>
+  </tr>
+  <tr>
+    <td align= center>5 November 2019</td>
+    <td><b>Pataphysics</b><br>
+    Excerpts from Alastair Brotchie, Stanley Chapman, Thieri Foulc & Kevin Jackson (eds.),
+    <i>’Pataphysics: Definitions and Citations</i>
+    </td>
+  </tr>  
+  <tr>
+    <td align= center>19 November 2019</td>
+    <td>Mina Loy, <i>Insel</i></td>
+  </tr>  
+  <tr>
+    <td align= center>3 December 2019</td>
+    <td><b>Niall Montgomery, Father of Modern Irish Sound Poetry</b><br>
+    Samuel Beckett, 'Ooftish'<br>
+    Niall Montgomery, 'Swing Tides of March This Time Darling', 'London Transport',
+    'Love's Old Suite', 'Poor Silly Bitch'<br>
+    Friedrich Hölderlin, 'Hälfte des Lebens' and 'An Unfaithful Version', trans. by Niall Montgomery
+    </td>
+  </tr>
+</table>
 
 <!-- Summer 2018/19 -->
 
