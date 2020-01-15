@@ -43,7 +43,7 @@ The reading for each session is distributed through our mailing list one week in
   <tr>
     <td>3 March 2020</td>
     <td>7-9 pm</td>
-    <td><b>George Oppen, <i>Discreet Series</i></b></td>
+    <td><b>George Oppen, <i>Discrete Series</i></b></td>
     <td>TBC</td>
   </tr>  
   <tr>
