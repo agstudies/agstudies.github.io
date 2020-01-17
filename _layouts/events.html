@@ -2,11 +2,34 @@
 layout: page
 ---
 
-  {{ content }}
+{%- if site.events.size > 0 -%}
+  <!--<h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h2> -->
 
+  <div class="row">
+    <div class="leftcolumn">
+      {%- for event in site.events -%}
+            <div class="card">
+              <div class="post-img">
+                <a href="{{ event.url | relative_url }}">
+                  <img src="{{ event.image_path }}"/>
+                </a>
+              </div>
+              <h4>
+                <a class="post-link" href="{{ event.url | relative_url }}">
+                {{ event.title | escape }}
+                </a>
+                <span class="post-meta">{{ event.time }}</span>
+                <br>
+                <span class="post-meta">{{ event.location }}</span>
+              </h4>
+                {{ event.description }}
+            </div>
+      {%- endfor -%}
+{%- endif -%}
+ <!--
 <h2> Past Events </h2>
 
-{%- for event in site.events -%}
+{%- for event in site.past-events -%}
       <div class="event">
         <div class="event-img"><img src="{{ event.image_path }}"/></div>
         {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
@@ -19,4 +42,4 @@ layout: page
         </h4>
         <p>{{ event.description }}</p>
       </div>
-{%- endfor -%}
+{%- endfor -%} -->
