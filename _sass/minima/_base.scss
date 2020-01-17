@@ -80,7 +80,7 @@ img.figure-image {
 }
 
 img.event-image {
-  width: 270px;
+  max-width: 270px;
 }
 
 @include media-query($on-palm) {
