@@ -12,7 +12,7 @@ description: The Avant-Garde Studies group presents the second in our series of 
   <figcaption class="artwork-right"><i>Un Chien Andalou</i> (1929, dir. Luis Buñuel)</figcaption>
 </figure>
 
-### _Un Chien Andalou_ (1929) and Other Shorts ###
+### _Un Chien Andalou_ and Other Shorts ###
 
 **<a href="https://www.eventbrite.co.uk/e/avant-garde-film-night-un-chien-andalou-and-other-shorts-tickets-86680819665" target="_blank">Book tickets</a>**
 
