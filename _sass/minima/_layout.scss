@@ -257,21 +257,11 @@ figure.event-right {
   border: 10px solid lighten($brand-color, 10%);
   border-radius: 5px;
   float: right;
-
-  img {
-    vertical-align: middle;
-    max-width: 270px;
-      }
-  @include media-query($on-palm) {
-            img {
-            max-width: 150px;
-    }
-  }
 }
 
 @include media-query($on-palm) {
   figure.event-right {
-    max-width: 150px;
+    max-width: 120px;
   }
 }
 

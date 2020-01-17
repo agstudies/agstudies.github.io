@@ -8,7 +8,7 @@ description: The Avant-Garde Studies group presents the second in our series of 
 ---
 
 <figure class="event-right">
-  <img src="/images/event_images/chien_andalou.jpg">
+  <img class="event-image" src="/images/event_images/chien_andalou.jpg">
   <figcaption class="artwork-right"><i>Un Chien Andalou</i> (1929, dir. Luis Buñuel)</figcaption>
 </figure>
 
