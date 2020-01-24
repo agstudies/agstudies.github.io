@@ -31,7 +31,7 @@ The reading for each session is distributed through our mailing list one week in
   <tr>
     <td>4 February 2020</td>
     <td>7-9 pm</td>
-    <td><b>Sex(y) Dolls: Pritzel, Kokoschka, Duchamp</b></td>
+    <td><b>Sex(y) Dolls: Lotte Pritzel and Hermine Moos</b></td>
     <td>Room G17, Birkbeck School of Arts, 43 Gordon Square, London, WC1H 0PD</td>
   </tr>
   <tr>
