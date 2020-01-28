@@ -37,7 +37,7 @@ The reading for each session is distributed through our mailing list one week in
   <tr>
     <td>18 February 2020</td>
     <td>7-9 pm</td>
-    <td><b>TBC</b></td>
+    <td><b>Leo Koenig and London's Yiddish Avant-Garde</b></td>
     <td>Room 106, Birkbeck School of Arts, 43 Gordon Square, London, WC1H 0PD</td>
   </tr>  
   <tr>
