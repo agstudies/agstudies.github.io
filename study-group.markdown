@@ -44,7 +44,7 @@ The reading for each session is distributed through our mailing list one week in
     <td>3 March 2020</td>
     <td>7-9 pm</td>
     <td><b>George Oppen, <i>Discrete Series</i></b></td>
-    <td>TBC</td>
+    <td><i>Cancelled in solidarity with industrial action.</i></td>
   </tr>  
   <tr>
     <td>17 March 2020</td>
