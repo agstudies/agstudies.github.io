@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Avant-Garde Film Night"
-image_path: /images/entracte_thumb.png
-time: 6.00pm
-location: Birkbeck Cinema,<br>43 Gordon Square
+image_path: /images/event_images/entracte.png
+time: 7 December 2018, 6.00pm
+location: Birkbeck Cinema, 43 Gordon Square, London, WC1H 0PD
 description: The Avant-Garde Study Group presents a series of rarely seen avant-garde short films in this collaboration with the Birkbeck Institute for the Moving Image.
 ---
 
 <figure class="event-right">
-  <img src="/images/Entracte.png">
+  <img class="event-image" src="/images/event_images/entracte.png">
   <figcaption class="artwork-right"><i>Entr'acte</i> (1924, dir. René Clair)</figcaption>
 </figure>
 
