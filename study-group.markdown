@@ -50,7 +50,7 @@ The reading for each session is distributed through our mailing list one week in
     <td>17 March 2020</td>
     <td>7-9 pm</td>
     <td><b>Stein's Playful Experimentation and the Generation of Literary Cubist Theatre</b></td>
-    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square, London, WC1H 0PD</td>
+    <td><i>Postponed.</i></td>
   </tr>
 </table>
 
