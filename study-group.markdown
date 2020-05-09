@@ -23,34 +23,34 @@ The reading for each session is distributed through our mailing list one week in
     <th>Location</th>
   </tr>
   <tr>
-    <td width="20%">21 January 2020</td>
-    <td width ="15%">7-9 pm</td>
-    <td width="25%"><b>Fluxus</b></td>
-    <td width="40%">Room G17, Birkbeck School of Arts, 43 Gordon Square, London, WC1H 0PD</td>
+    <td width="20%">TBC</td>
+    <td width ="15%">TBC</td>
+    <td width="25%">TBC</td>
+    <td width="40%">TBC</td>
   </tr>
   <tr>
-    <td>4 February 2020</td>
-    <td>7-9 pm</td>
-    <td><b>Sex(y) Dolls: Lotte Pritzel and Hermine Moos</b></td>
-    <td>Room G17, Birkbeck School of Arts, 43 Gordon Square, London, WC1H 0PD</td>
+    <td>TBC</td>
+    <td>TBC</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
   <tr>
-    <td>18 February 2020</td>
-    <td>7-9 pm</td>
-    <td><b>Leo Koenig and London's Yiddish Avant-Garde</b></td>
-    <td>Room 106, Birkbeck School of Arts, 43 Gordon Square, London, WC1H 0PD</td>
+    <td>TBC</td>
+    <td>TBC</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>  
   <tr>
-    <td>3 March 2020</td>
-    <td>7-9 pm</td>
-    <td><b>George Oppen, <i>Discrete Series</i></b></td>
-    <td><i>Cancelled in solidarity with industrial action.</i></td>
+    <td>TBC</td>
+    <td>TBC</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>  
   <tr>
-    <td>17 March 2020</td>
-    <td>7-9 pm</td>
-    <td><b>Stein's Playful Experimentation and the Generation of Literary Cubist Theatre</b></td>
-    <td><i>Postponed.</i></td>
+    <td>TBC</td>
+    <td>TBC</td>
+    <td>TBC</td>
+    <td>TBC</td>
   </tr>
 </table>
 

@@ -11,30 +11,74 @@ The sessions have been devised by participants in the group, including Lucy Burn
 <!-- table template
 <table>
   <tr>
-    <th colspan="2" align= center>Term</th>
+    <th colspan="2" align="center">Term</th>
   </tr>
   <tr>
-    <td align= center width="20%">Date</td>
+    <td align="center" width="20%">Date</td>
     <td width ="80%">Session</td>
   </tr>
   <tr>
-    <td align= center></td>
+    <td aalign="center"></td>
     <td></td>
   </tr>
   <tr>
-    <td align= center></td>
+    <td align="center"></td>
     <td></td>
   </tr>  
   <tr>
-    <td align= center></td>
+    <td align="center"></td>
     <td></td>
   </tr>  
   <tr>
-    <td align= center></td>
+    <td align="center"></td>
     <td></td>
   </tr>
 </table>
 --->
+
+
+<!-- Spring 2019/20 -->
+
+<table>
+  <tr>
+    <th colspan="2" align="center">Spring 2019/20</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%">17 March 2020</td>
+    <td width ="80%"><i>Postponed.</i></td>
+  </tr>
+  <tr>
+    <td align="center">3 March 2020</td>
+    <td><i>Cancelled in solidarity with industrial action.</i></td>
+  </tr>
+  <tr>
+    <td align="center">18 February 2020</td>
+    <td><b>Leo Koenig and London's Yiddish Avant-Garde</b><br>
+    Leo Koenig, 'Renaissance-Motifs'<br>
+    David Bomberg, 'Winter Night'<br>
+    Ralph Hodgson, 'Time, You Old Gypsy Man'<br>
+    Rudyard Kipling, 'Mother o' Mine'<br>
+    Images from <i>Renesans</i> of artworks by Mark Gertler, Bernard Meninsky, Marc Chagall and others
+    </td>
+  </tr>  
+  <tr>
+    <td align="center">4 February 2020</td>
+    <td><b>Sex(y) Dolls: Lotte Pritzel and Hermine Moos</b><br>
+    Photographs of various wax dolls by Lotte Pritzel<br>
+    <i>Die Pritzelpuppe</i> (1923, dir. Ulrich Kayser)<br>
+    Rainer Maria Rilke, 'Dolls'<br>
+    Photographs of the Alma doll by Hermine Moos<br>
+    Oskar Kokoschka, <i>Painter with Doll</i>, <i>Woman in Blue</i>    
+    </td>  
+  </tr>
+  <tr>
+    <td align="center">21 January 2020</td>
+    <td><b>Fluxus</b><br>
+    George Maciunas, 'Fluxus Manifesto'<br>
+     Scores, films and records of performances by George Brecht, Dick Higgins, Yoko Ono, Nam June Paik, Chieko Shiomi and others
+    </td>
+  </tr>
+</table>
 
 <!-- Autumn 2019/20 -->
 
@@ -43,15 +87,23 @@ The sessions have been devised by participants in the group, including Lucy Burn
     <th colspan="2" align="center">Autumn 2019/20</th>
   </tr>
   <tr>
-    <td align="center" width="20%">8 October 2019</td>
-    <td width ="80%"><b>New Objectivity</b><br>
-    Aenne Biermann, <i>Blick aus meinem Atelierfenster</i>, <i>Dame mit Monokel</i>, <i>Gänse hinter Gatter</i><br>
-    Albert Renger-Patzsch, <i>Erzgebirge Holzschnitzer</i>, <i>Hörder Verein (Dortmund)</i>, <i>Magneteisenerz (Pfitsch, Tirol)</i><br>
-    Albert Steiner, <i>Liegehalle der Chirurgischen Klinik der Zürcher Heilstätte (Davos)</i>, <i>Untitled</i>, <i>Winterlandschaft bei Inner-Arosa</i><br>
-    August Sander, <i>Blind Girls</i>, <i>Jobless</i>, <i>Peddler</i><br>
-    Erich Retzlaff, <i>Die von der Scholle</i>, <i>Die von der Scholle 2</i>, <i>Menschen am Werk</i><br>
-    Jakob Tuggener, <i>Laufmädchen in der Maschinenfabrik Oerlikon</i>, <i>Power Station La Grande Dixence</i>, <i>Tornos Machine-tool Factory, Moutier</i><br>
-    Walter Benjamin, 'Little History of Photography'
+    <td align="center">3 December 2019</td>
+    <td><b>Niall Montgomery, Father of Modern Irish Sound Poetry</b><br>
+    Samuel Beckett, 'Ooftish'<br>
+    Niall Montgomery, 'Swing Tides of March This Time Darling', 'London Transport',
+    'Love's Old Suite', 'Poor Silly Bitch'<br>
+    Friedrich Hölderlin, 'Hälfte des Lebens' and 'An Unfaithful Version', trans. by Niall Montgomery
+    </td>
+  </tr>
+  <tr>
+    <td align="center">19 November 2019</td>
+    <td>Mina Loy, <i>Insel</i></td>
+  </tr>
+  <tr>
+    <td align="center">5 November 2019</td>
+    <td><b>Pataphysics</b><br>
+    Excerpts from Alastair Brotchie, Stanley Chapman, Thieri Foulc & Kevin Jackson (eds.),
+    <i>’Pataphysics: Definitions and Citations</i>
     </td>
   </tr>
   <tr>
@@ -64,25 +116,17 @@ The sessions have been devised by participants in the group, including Lucy Burn
     <i>Opérarios</i>, <i>São Paulo</i>, <i>Segunda classe</i>, <i>Urutu</i><br>
     Oswald de Andrade, 'Cannibalist Manifesto'
     </td>
-  </tr>
+  </tr>   
   <tr>
-    <td align="center">5 November 2019</td>
-    <td><b>Pataphysics</b><br>
-    Excerpts from Alastair Brotchie, Stanley Chapman, Thieri Foulc & Kevin Jackson (eds.),
-    <i>’Pataphysics: Definitions and Citations</i>
-    </td>
-  </tr>  
-  <tr>
-    <td align="center">19 November 2019</td>
-    <td>Mina Loy, <i>Insel</i></td>
-  </tr>  
-  <tr>
-    <td align="center">3 December 2019</td>
-    <td><b>Niall Montgomery, Father of Modern Irish Sound Poetry</b><br>
-    Samuel Beckett, 'Ooftish'<br>
-    Niall Montgomery, 'Swing Tides of March This Time Darling', 'London Transport',
-    'Love's Old Suite', 'Poor Silly Bitch'<br>
-    Friedrich Hölderlin, 'Hälfte des Lebens' and 'An Unfaithful Version', trans. by Niall Montgomery
+    <td align="center" width="20%">8 October 2019</td>
+    <td width ="80%"><b>New Objectivity</b><br>
+    Aenne Biermann, <i>Blick aus meinem Atelierfenster</i>, <i>Dame mit Monokel</i>, <i>Gänse hinter Gatter</i><br>
+    Albert Renger-Patzsch, <i>Erzgebirge Holzschnitzer</i>, <i>Hörder Verein (Dortmund)</i>, <i>Magneteisenerz (Pfitsch, Tirol)</i><br>
+    Albert Steiner, <i>Liegehalle der Chirurgischen Klinik der Zürcher Heilstätte (Davos)</i>, <i>Untitled</i>, <i>Winterlandschaft bei Inner-Arosa</i><br>
+    August Sander, <i>Blind Girls</i>, <i>Jobless</i>, <i>Peddler</i><br>
+    Erich Retzlaff, <i>Die von der Scholle</i>, <i>Die von der Scholle 2</i>, <i>Menschen am Werk</i><br>
+    Jakob Tuggener, <i>Laufmädchen in der Maschinenfabrik Oerlikon</i>, <i>Power Station La Grande Dixence</i>, <i>Tornos Machine-tool Factory, Moutier</i><br>
+    Walter Benjamin, 'Little History of Photography'
     </td>
   </tr>
 </table>
@@ -150,24 +194,24 @@ The sessions have been devised by participants in the group, including Lucy Burn
     <th colspan="2" align="center">Autumn 2018/19</th>
   </tr>
   <tr>
-    <td align="center" width="20%">9 October 2018</td>
-    <td width ="80%"><b>The Ballets Russes</b><br>Sergei Diaghilev, 'Eternal Conflict', 'Our Supposed Decline'<br><i>The Rite of Spring</i>, <i>Parade</i></td>
+    <td align="center">4 December 2018</td>
+    <td>Amos Tutuola, <i>The Palm-Wine Drinkard</i></td>
+  </tr>
+  <tr>
+    <td align="center">20 November 2018</td>
+    <td><b>Scapigliatura and Italian Futurism</b><br>Libero Altomare, 'Sinfonia luminosa', 'La morte', 'Ricami d'ombra'<br>Mario Bètuda, 'Voluttà'<br>Arrigo Boito, 'Literary Polemic', 'A Giovanni Camerana', 'Lezione d'anatomia', 'Case nuove'<br>Giovanni Camerana, 'A Emilio Praga'<br>G. Manzella-Frontini, 'Sala anatomica'<br>F.T. Marinetti, 'Technical Manifesto of Futurist Literature', La battaglia di Tripoli<br>Armando Mazza, 'A Venezia'<br>Emilio Praga, 'Seraphina', 'A un feto', 'Dama elegante', 'Verità', 'Orgia', 'La libreria'</td>
+  </tr>  
+  <tr>
+    <td align="center">6 November 2018</td>
+    <td><b>Helen Saunders, the New Freewoman and the Breaking of Binary Bonds</b><br>Helen Saunders, <i>Female Figures Imprisoned</i>, <i>Hammock</i><br>Dora Marsden, 'Views and Comments'<br>Henri Bergson, 'An Introduction to Metaphysics'</td>
   </tr>
   <tr>
     <td align="center">23 October 2018</td>
     <td>Hugh MacDiarmid, <i>Three Hymns to Lenin</i></td>
   </tr>
   <tr>
-    <td align="center">6 November 2018</td>
-    <td><b>Helen Saunders, the New Freewoman and the Breaking of Binary Bonds</b><br>Helen Saunders, <i>Female Figures Imprisoned</i>, <i>Hammock</i><br>Dora Marsden, 'Views and Comments'<br>Henri Bergson, 'An Introduction to Metaphysics'</td>
-  </tr>  
-  <tr>
-    <td align="center">20 November 2018</td>
-    <td><b>Scapigliatura and Italian Futurism</b><br>Libero Altomare, 'Sinfonia luminosa', 'La morte', 'Ricami d'ombra'<br>Mario Bètuda, 'Voluttà'<br>Arrigo Boito, 'Literary Polemic', 'A Giovanni Camerana', 'Lezione d'anatomia', 'Case nuove'<br>Giovanni Camerana, 'A Emilio Praga'<br>G. Manzella-Frontini, 'Sala anatomica'<br>F.T. Marinetti, 'Technical Manifesto of Futurist Literature', La battaglia di Tripoli<br>Armando Mazza, 'A Venezia'<br>Emilio Praga, 'Seraphina', 'A un feto', 'Dama elegante', 'Verità', 'Orgia', 'La libreria'</td>
-  </tr>  
-  <tr>
-    <td align="center">4 December 2018</td>
-    <td>Amos Tutuola, <i>The Palm-Wine Drinkard</i></td>
+    <td align="center" width="20%">9 October 2018</td>
+    <td width ="80%"><b>The Ballets Russes</b><br>Sergei Diaghilev, 'Eternal Conflict', 'Our Supposed Decline'<br><i>The Rite of Spring</i>, <i>Parade</i></td>
   </tr>
 </table>
 
