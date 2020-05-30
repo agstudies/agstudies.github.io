@@ -7,10 +7,14 @@ order: 1
 
 The AGS study group is **open to all** with an interest in the historical avant-garde - you don’t need to be a student or researcher to join.
 
-To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
+**Due to the COVID-19 pandemic, there are currently no scheduled sessions for the Summer Term 2019/20.** We will update this page as and when the situation changes.
 
-The reading for each session is distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>.
+In the meantime, you can <a href="https://twitter.com/agstudies" target="_blank">follow us on Twitter</a> or <a class="u-email" href="mailto:{{ site.email }}">get in touch via email</a>.
 <br><br>
+
+<!-- To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
+The reading for each session is distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>.-->
+
 
 <h3>Upcoming Sessions</h3>
 
