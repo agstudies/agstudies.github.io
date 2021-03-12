@@ -25,10 +25,10 @@ The reading for each session is distributed through our mailing list one week in
     <th>Location</th>
   </tr>
   <tr>
-    <td width="20%">18 November 2020</td>
+    <td width="25%">18 November 2020</td>
     <td width ="15%">7.30-9 pm GMT</td>
     <td width="35%"><b><i>Fire!!</i> (1926)</b></td>
-    <td width="30%">online via Collaborate</td>
+    <td width="25%">online via Collaborate</td>
   </tr>
 <tr>
     <td>16 December 2020</td>
@@ -49,7 +49,7 @@ The reading for each session is distributed through our mailing list one week in
     <td>online via Collaborate</td>
   </tr>  
   <tr>
-    <td>17 March 2021</td>
+    <td><strike>17 March 2021</strike> <b>DATE CHANGE: <br>7 April 2021</b></td>
     <td>7.30-9 pm GMT</td>
     <td><b>Franz Kafka's 'Josephine the Singer'</b></td>
     <td>online via Collaborate</td>
