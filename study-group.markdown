@@ -73,7 +73,7 @@ The reading for each session is distributed through our mailing list one week in
     <td>online via Collaborate</td>
   </tr>
   <tr>
-    <td>14 Juy 2021</td>
+    <td>14 July 2021</td>
     <td>7.30-9 pm GMT</td>
     <td><b>Leonora Carrington</b></td>
     <td>online via Collaborate</td>
