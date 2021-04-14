@@ -55,9 +55,27 @@ The reading for each session is distributed through our mailing list one week in
     <td>online via Collaborate</td>
   </tr>
   <tr>
-    <td>21 April 2021</td>
+    <td><strike>21 April 2021</strike> <b>CANCELLED</b></td>
     <td>7.30-9 pm GMT</td>
     <td><b><i>The Tyro</i></b></td>
+    <td>online via Collaborate</td>
+  </tr>
+  <tr>
+    <td>19 May 2021</td>
+    <td>7.30-9 pm GMT</td>
+    <td><b>Kazimir Malevich</b></td>
+    <td>online via Collaborate</td>
+  </tr>
+  <tr>
+    <td>16 June 2021</td>
+    <td>7.30-9 pm GMT</td>
+    <td><b>Tom Raworth: Avant-Gardes in/against Translation</b></td>
+    <td>online via Collaborate</td>
+  </tr>
+  <tr>
+    <td>14 Juy 2021</td>
+    <td>7.30-9 pm GMT</td>
+    <td><b>Leonora Carrington</b></td>
     <td>online via Collaborate</td>
   </tr>
 </table>
