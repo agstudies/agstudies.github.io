@@ -17,6 +17,9 @@ The reading for each session is distributed through our mailing list one week in
 
 <h3>Upcoming Sessions</h3>
 
+<b>New dates to be added soon.</b>
+
+<!--
 <table>
   <tr>
     <th>Date</th>
@@ -79,6 +82,9 @@ The reading for each session is distributed through our mailing list one week in
     <td>online via Collaborate</td>
   </tr>
 </table>
+-->
+
+
 
 <!-- Share buttons BEGIN
 <div class="a2a_kit a2a_kit_size_25 a2a_default_style" data-a2a-icon-color="#828282">
