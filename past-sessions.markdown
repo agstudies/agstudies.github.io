@@ -37,6 +37,73 @@ The sessions have been devised by participants in the group, including Lucy Burn
 </table>
 --->
 
+<!-- Online Sessions 2020/21 -->
+
+<table>
+  <tr>
+    <th colspan="2" align="center">Online Sessions 2020/21</th>
+  </tr>
+  <tr>
+    <td align="center">14 July 2021</td>
+    <td><b>Leonora Carrington</b><br>
+    'As They Rode Along the Edge', 'The Sisters', 'The Three Hunters'<br>
+    <i>The Meal of Lord Candlestick</i>, <i>Self-Portrait: Inn of the Dawn Horse</i>, <i>The Temptation of St Anthony</i>, <i>The Giantess</i>, <i>Bird Bath</i>, <i>Ab Eo Quod</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">16 June 2021</td>
+    <td><b>Tom Raworth: Avant-Gardes in/against Translation</b><br>
+    Philip Terry, 'Discovering Raworth'<br>
+    Gabriela Jauregui, 'Tom Raworth: Introducción y traducciones'<br>
+    Emily Apter, ‘Twenty Theses on Translation'<br>
+    Nicanor Parra/Tom Raworth, 'La montaña rusa/The Roller-Coaster'<br>
+    Vicente Huibdobro/Tom Raworth, 'En la tumba de un poeta/On the Tomb of a Poet', 'Nipona/Nipponese', 'Alerta/The Alert', 'Apaga tu pipa/Put Out Your Pipe', 'Emigrante a América/Emigrant to America', 'Affiche/Poster', 'Balada de lo que no vuelve/Ballad of That Which Does Not Return'<br>
+    Tom Raworth (trans.), <i>Save Your Eyes</i>, 'From the Hungarian (A Sequence of Eighteen Poems)'
+    </td>
+  </tr>
+  <tr>
+    <td align="center">19 May 2021</td>
+    <td>Kazimir Malevich
+    </td>
+  </tr>
+  <tr>
+    <td align="center">7 April 2021</td>
+    <td>Franz Kafka, 'Josephine the Singer'
+    </td>
+  </tr>
+  <tr>
+    <td align="center">17 February 2021</td>
+    <td><b>Strings Attached: The Arts Council of Great Britain and Post-War British Fiction</b><br>
+    Raymond Williams, ‘Politics and Policies: The Case of the Arts Council’<br>
+    Nigel Abercrombie, ‘Key Year’<br>
+    Cecil Day-Lewis, ‘First Aid for Writers’<br>
+    Ian Hamilton, ‘The Panel Game’<br>
+    Anthony Burgess, ‘Letter to the Editor’
+    </td>
+  </tr>
+  <tr>
+    <td align="center">20 January 2021</td>
+    <td><b>Gertrude Stein and Literary Cubist Theatre</b><br>
+    Extracts from <i>Tender Buttons</i>, extract from 'The Good Anna', <i>What Happened</i>, <i>He Said It</i>, <i>White Wines</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">16 December 2020</td>
+    <td><b>Richard Bruce Nugent and Queer Modernism</b><br>
+    'Smoke, Lillies and Jade', 'Narcissus', 'Bastard Song'
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">18 November 2020</td>
+    <td width ="80%"><b>Fire!! (1926)</b><br>
+    'Foreword'<br>
+    Helene Johnson, 'A Southern Road'<br>
+    Langston Hughes, 'Elevator Boy'<br>
+    Wallace Thurman, 'Cordelia the Crude'<br>
+    Richard Bruce Nugent, drawings and excerpt from 'Smoke, Lillies and Jade'
+    </td>
+  </tr>
+</table>
 
 <!-- Spring 2019/20 -->
 
