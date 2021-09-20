@@ -7,7 +7,7 @@ order: 2
 
 <!-- <h1>Past Sessions</h1>-->
 
-The sessions have been devised by participants in the group, including Lucy Burns, Alessandro Cabiati, Iris Colomb, Jo Cottrell, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin and Michał Piotrowski.<br><br><br>
+The sessions have been devised by participants in the group, including Lucy Burns, Alessandro Cabiati, Iris Colomb, Jo Cottrell, Dan Eltringham, Mischa Foster Poole, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Rebekka Jolley, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin, Michał Piotrowski, Christopher Webb and Christopher Wells.<br><br><br>
 
 <!-- table template
 <table>
