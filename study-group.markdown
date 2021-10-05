@@ -42,7 +42,6 @@ The reading for each session is distributed through our mailing list one week in
     <td><b>The Chandos Letter by Hugo von Hofmannsthal</b></td>
     <td>online via Collaborate</td>
   </tr>  
-  <tr>
 </table>
 
 
