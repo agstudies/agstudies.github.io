@@ -18,8 +18,8 @@ The reading for each session is distributed through our mailing list one week in
 <h3>Upcoming Sessions</h3>
 
 New dates to be added soon.
-<!--
-<table>
+
+<!-- <table>
   <tr>
     <th>Date</th>
     <th>Time</th>
@@ -44,8 +44,7 @@ New dates to be added soon.
     <td><b>The Chandos Letter by Hugo von Hofmannsthal</b></td>
     <td>online via Collaborate</td>
   </tr>  
-</table>
--->
+</table> -->
 
 
 
