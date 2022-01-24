@@ -44,6 +44,27 @@ The sessions have been devised by participants in the group, including Lucy Burn
     <th colspan="2" align="center">Online Sessions 2020/21</th>
   </tr>
   <tr>
+    <td align="center">15 December 2021</td>
+    <td><b>The Chandos Letter by Hugo von Hofmannsthal</b><br>
+        'Ein Brief', 'The Letter of Lord Chandos'
+    </td>
+  </tr>
+  <tr>
+    <td align="center">17 November 2021</td>
+    <td><b>Blaise Cendrars</b><br>
+        'Profound Today', 'The ABCs of Cinema', ‘The End of the World Filmed by the Angel of Notre Dame’, 'On the Parturition of Colors', 'On Projection            Powder'<br>
+        'Cosmic Legends' from <i>The African Saga</i>, 'La Création du monde' - scenario by Cendrars, designs by Léger<br>
+        Fernand Léger, illustrations for ‘The End of the World Filmed by the Angel of Notre Dame’
+    </td>
+  </tr>
+  <tr>
+    <td align="center">13 October 2021</td>
+    <td><b>George Mackay Brown</b><br>
+        Excerpt from <i>Magnus</i>:'The Killing', 'A Surplus of Books'<br>
+        <i>Magnus</i> book cover design, two portraits of Brown
+    </td>
+  </tr>
+  <tr>
     <td align="center">14 July 2021</td>
     <td><b>Leonora Carrington</b><br>
     'As They Rode Along the Edge', 'The Sisters', 'The Three Hunters'<br>
@@ -63,12 +84,12 @@ The sessions have been devised by participants in the group, including Lucy Burn
   </tr>
   <tr>
     <td align="center">19 May 2021</td>
-    <td>Kazimir Malevich
+    <td><b>Kazimir Malevich</b>
     </td>
   </tr>
   <tr>
     <td align="center">7 April 2021</td>
-    <td>Franz Kafka, 'Josephine the Singer'
+    <td><b>Franz Kafka, 'Josephine the Singer'</b>
     </td>
   </tr>
   <tr>
