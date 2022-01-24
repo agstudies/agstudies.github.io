@@ -9,7 +9,7 @@ The AGS study group is **open to all** with an interest in the historical avant-
 
 To participate, simply come along to one of our discussion sessions, **currently held online** via Collaborate.
 
-The reading for each session and a link to join will be distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>.
+<!--The reading for each session and a link to join will be distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>. -->
 
 <!-- To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
 The reading for each session is distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>. -->
@@ -17,6 +17,8 @@ The reading for each session is distributed through our mailing list one week in
 
 <h3>Upcoming Sessions</h3>
 
+New dates to be added soon.
+<!--
 <table>
   <tr>
     <th>Date</th>
@@ -43,7 +45,7 @@ The reading for each session is distributed through our mailing list one week in
     <td>online via Collaborate</td>
   </tr>  
 </table>
-
+-->
 
 
 
