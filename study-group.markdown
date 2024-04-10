@@ -6,18 +6,17 @@ order: 1
 ---
 
 The AGS study group is **open to all** with an interest in the historical avant-garde - you don’t need to be a student or researcher to join.
+Until 2021 the group met at Birkbeck College, London. **Current meetings take place at the Centre for British Studies, HU Berlin.**
 
-<!--The reading for each session and a link to join will be distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>. -->
+<!--The reading for each session will be distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>. -->
 
-<!-- To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
-The reading for each session is distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>. -->
+To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
+The reading for each session is distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>.
 
 
 <h3>Upcoming Sessions</h3>
 
-New dates to be added soon.
-
-<!-- <table>
+<table>
   <tr>
     <th>Date</th>
     <th>Time</th>
@@ -25,22 +24,22 @@ New dates to be added soon.
     <th>Location</th>
   </tr>
   <tr>
-    <td width="25%">13 October 2021</td>
-    <td width ="15%">7.30-9 pm GMT</td>
-    <td width="35%"><b>George Mackay Brown</b></td>
-    <td width="25%">online via Collaborate</td>
+    <td width="25%">14 May 2024</td>
+    <td width ="15%">7-8.30 pm CEST</td>
+    <td width="35%"><b>Else Lasker-Schüler: Poetry and Visual Art</b></td>
+    <td width="25%">Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
   </tr>
 <tr>
-    <td>17 November 2021</td>
-    <td>7.30-9 pm GMT</td>
-    <td><b>Blaise Cendrars</b></td>
-    <td>online via Collaborate</td>
+    <td>11 June 2024</td>
+    <td>7-8.30 pm CEST</td>
+    <td><b>Fernand Divoire’s Literary Strategy</b></td>
+    <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
   </tr>
   <tr>
-    <td>15 December 2021</td>
-    <td>7.30-9 pm GMT</td>
-    <td><b>The Chandos Letter by Hugo von Hofmannsthal</b></td>
-    <td>online via Collaborate</td>
+    <td>16 July 2024</td>
+    <td>7-8.30 pm CEST</td>
+    <td><b>Walter Benjamin, <i>Einbahnstraße</i></b></td>
+    <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
   </tr>  
 </table> -->
 
