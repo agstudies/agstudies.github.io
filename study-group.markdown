@@ -6,7 +6,7 @@ order: 1
 ---
 
 The AGS study group is **open to all** with an interest in the historical avant-garde - you don’t need to be a student or researcher to join.
-Until 2021 the group met at Birkbeck College, London. **Current meetings take place at the Centre for British Studies, HU Berlin.**
+<br>Until 2021 the group met at Birkbeck College, London. **Current meetings take place at the Centre for British Studies, HU Berlin.**
 
 <!--The reading for each session will be distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>. -->
 
@@ -41,7 +41,7 @@ The reading for each session is distributed through our mailing list one week in
     <td><b>Walter Benjamin, <i>Einbahnstraße</i></b></td>
     <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
   </tr>  
-</table> -->
+</table>
 
 
 
