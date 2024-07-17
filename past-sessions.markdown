@@ -7,7 +7,7 @@ order: 2
 
 <!-- <h1>Past Sessions</h1>-->
 
-The sessions have been devised by participants in the group, including Lucy Burns, Alessandro Cabiati, Iris Colomb, Jo Cottrell, Dan Eltringham, Mischa Foster Poole, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Rebekka Jolley, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin, Michał Piotrowski, Mick Sheldon, Abigael van Alst, Christopher Webb and Christopher Wells.<br><br><br>
+The sessions have been devised by participants in the group, including Eddie Bolger, Lucy Burns, Alessandro Cabiati, Rosa Chrystie-Lowe, Iris Colomb, Jo Cottrell, Dan Eltringham, Mischa Foster Poole, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Rebekka Jolley, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin, Michał Piotrowski, Mick Sheldon, Abigael van Alst, Christopher Webb and Christopher Wells.<br><br><br>
 
 <!-- table template
 <table>
@@ -19,7 +19,7 @@ The sessions have been devised by participants in the group, including Lucy Burn
     <td width ="80%">Session</td>
   </tr>
   <tr>
-    <td aalign="center"></td>
+    <td align="center"></td>
     <td></td>
   </tr>
   <tr>
@@ -36,6 +36,28 @@ The sessions have been devised by participants in the group, including Lucy Burn
   </tr>
 </table>
 --->
+
+<!-- Berlin Sessions Spring/Summer 2024 -->
+
+<table>
+  <tr>
+    <th colspan="2" align="center">Berlin Sessions Spring/Summer 2024</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%">14 May 2024</td>
+    <td width ="80%"><b>Else Lasker Schüler: Poetry and Visual Art</b><br>
+    'Weltflucht', musical score for 'Weltflucht' by Herwarth Walden, 'Elbanaff', 'Heimweh', 'Asser Mëmëd Schalomein Jussuf', 'Thebes with Jussuf', 'Selbstporträt', cover of <i>Ich räume auf!</i> </td>
+  </tr>
+  <tr>
+    <td align="center">11 June 2024</td>
+    <td><b>Fernand Divoire's Literary Strategy</b><br>
+    Excerpt from <i>Introduction à l'Étude de la Stratégie littéraire</i></td>
+  </tr>
+  <tr>
+    <td align="center">16 July 2024</td>
+    <td><b>Walter Benjamin, <i>Einbahnstraße</i></b></td>
+  </tr>  
+</table>
 
 <!-- Online Sessions 2020/21 -->
 
