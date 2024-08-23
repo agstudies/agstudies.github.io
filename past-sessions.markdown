@@ -44,9 +44,8 @@ The sessions have been devised by participants in the group, including Eddie Bol
     <th colspan="2" align="center">Berlin Sessions Spring/Summer 2024</th>
   </tr>
   <tr>
-    <td align="center" width="20%">14 May 2024</td>
-    <td width ="80%"><b>Else Lasker Schüler: Poetry and Visual Art</b><br>
-    'Weltflucht', musical score for 'Weltflucht' by Herwarth Walden, 'Elbanaff', 'Heimweh', 'Asser Mëmëd Schalomein Jussuf', 'Thebes with Jussuf', 'Selbstporträt', cover of <i>Ich räume auf!</i> </td>
+    <td align="center">16 July 2024</td>
+    <td><b>Walter Benjamin, <i>Einbahnstraße</i></b></td>
   </tr>
   <tr>
     <td align="center">11 June 2024</td>
@@ -54,8 +53,9 @@ The sessions have been devised by participants in the group, including Eddie Bol
     Excerpt from <i>Introduction à l'Étude de la Stratégie littéraire</i></td>
   </tr>
   <tr>
-    <td align="center">16 July 2024</td>
-    <td><b>Walter Benjamin, <i>Einbahnstraße</i></b></td>
+    <td align="center" width="20%">14 May 2024</td>
+    <td width ="80%"><b>Else Lasker Schüler: Poetry and Visual Art</b><br>
+    'Weltflucht', musical score for 'Weltflucht' by Herwarth Walden, 'Elbanaff', 'Heimweh', 'Asser Mëmëd Schalomein Jussuf', 'Thebes with Jussuf', 'Selbstporträt', cover of <i>Ich räume auf!</i> </td>
   </tr>  
 </table>
 
