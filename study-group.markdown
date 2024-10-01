@@ -8,11 +8,10 @@ order: 1
 The AGS study group is **open to all** with an interest in the historical avant-garde - you don’t need to be a student or researcher to join.
 <br><br>Until 2021 the group met at Birkbeck College, London. **Current meetings take place at the Centre for British Studies, HU Berlin.**
 
-Sessions for Spring/Summer 2024 have now finished. New sessions for the Autumn/Winter will be scheduled soon.
+<!--Sessions for Spring/Summer 2024 have now finished. New sessions for the Autumn/Winter will be scheduled soon.-->
 
-<!--The reading for each session will be distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>. -->
+To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
 
-<!--To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
 The reading for each session is distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>.
 
 <h3>Upcoming Sessions</h3>
@@ -25,25 +24,36 @@ The reading for each session is distributed through our mailing list one week in
     <th>Location</th>
   </tr>
   <tr>
-    <td width="25%">14 May 2024</td>
-    <td width ="15%">7-8.30 pm CEST</td>
-    <td width="35%"><b>Else Lasker-Schüler: Poetry and Visual Art</b></td>
+    <td width="25%">8 October 2024</td>
+    <td width ="15%">7-8.30 pm</td>
+    <td width="35%"><b>Velimir Khlebnikov and ‘beyonsense’ language</b></td>
     <td width="25%">Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
   </tr>
 <tr>
-    <td>11 June 2024</td>
-    <td>7-8.30 pm CEST</td>
-    <td><b>Fernand Divoire’s Literary Strategy</b></td>
+    <td>12 November 2024</td>
+    <td>7-8.30 pm</td>
+    <td><b>Poems by Mascha Kaléko</b></td>
     <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
   </tr>
   <tr>
-    <td>16 July 2024</td>
-    <td>7-8.30 pm CEST</td>
-    <td><b>Walter Benjamin, <i>Einbahnstraße</i></b></td>
+    <td>17 December 2024</td>
+    <td>7-8.30 pm</td>
+    <td><b>Films by Lotte Reiniger</b></td>
+    <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
+  </tr>  
+   <tr>
+    <td>14 January 2025</td>
+    <td>7-8.30 pm</td>
+    <td><b>Edward Verrall Lucas and George Morrow, <i>What a Life!</i></b></td>
+    <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
+  </tr>  
+   <tr>
+    <td>11 February 2025</td>
+    <td>7-8.30 pm</td>
+    <td><b>Photomontages by Hannah Höch</b></td>
     <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
   </tr>  
 </table>
--->
 
 
 
