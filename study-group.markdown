@@ -48,7 +48,7 @@ The reading for each session is distributed through our mailing list one week in
     <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
   </tr>  
    <tr>
-    <td>11 February 2025</td>
+    <td><s>11 February 2025</s> <br><b>NEW DATE: 12 February 2025</b></td>
     <td>7-8.30 pm</td>
     <td><b>Photomontages by Hannah Höch</b></td>
     <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
