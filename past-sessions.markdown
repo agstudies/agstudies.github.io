@@ -7,7 +7,7 @@ order: 2
 
 <!-- <h1>Past Sessions</h1>-->
 
-The sessions have been devised by participants in the group, including Eddie Bolger, Lucy Burns, Alessandro Cabiati, Rosa Chrystie-Lowe, Iris Colomb, Jo Cottrell, Dan Eltringham, Mischa Foster Poole, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Rebekka Jolley, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin, Michał Piotrowski, Mick Sheldon, Abigael van Alst, Christopher Webb and Christopher Wells.<br><br><br>
+The sessions have been devised by participants in the group, including Eddie Bolger, Lucy Burns, Alessandro Cabiati, Rosa Chrystie-Lowe, Iris Colomb, Jo Cottrell, Dan Eltringham, Mischa Foster Poole, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Rebekka Jolley, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin, Sonya Permiakova, Michał Piotrowski, Mick Sheldon, Abigael van Alst, Christopher Webb and Christopher Wells.<br><br><br>
 
 <!-- table template
 <table>
@@ -36,6 +36,42 @@ The sessions have been devised by participants in the group, including Eddie Bol
   </tr>
 </table>
 --->
+
+<!-- Berlin Sessions Winter Semester 2024/25 -->
+
+<table>
+  <tr>
+    <th colspan="2" align="center">Berlin Sessions Winter Semester 2024/25</th>
+  </tr>
+  <tr>
+    <td align="center">12 February 2025</td>
+    <td><b>Photomontages by Hannah Höch</b><br>
+      <i>Weiße Form</i> (1919), <i>Astronomie</i> (1922), <i>Equilibre</i> (1925), <i>Von Oben</i> (1926-27), <i>Trauer</i> (1925), <i>Die Süße</i> (c. 1926), <i>Mutter</i> (1930), <i>Modenschau</i> (1925-30), <i>Dompteuse</i> (c. 1930), <i>Die Starken Männer</i> (1931)<br>
+      Source material from <i>Der Querschnitt</i> and <i>Arbeiter Illustrierte Zeitung</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">14 January 2025</td>
+    <td><b>Edward Verrall Lucas and George Morrow, <i>What a Life!</i></b></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">17 December 2024</td>
+    <td width ="80%"><b>Films by Lotte Reiniger</b><br>
+    <i>Der fliegende Koffer</i> (1921), <i>Aschenputtel</i> (1922), <i>Das Geheimnis der Marquise</i> (1922)<td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">12 November 2024</td>
+    <td width ="80%"><b>Poems by Mascha Kaléko</b><br>
+    'Ein kleiner Mann stirbt', '(Für Sonja P.) Blasse Tage', 'Melancholie eines Alleinstehenden', 'Frühlingslied für Zugereiste', 'Der kleine Unterschied', 'Memento', 'Der Flamingo', 'Der Storch', 'Bei Känguruhs', 'Krokodilemma', 'Die Schildkröte', 'Rezept'<br>
+    Bertolt Brecht, '700 Intellektuelle beten einen Öltank an' <br>
+    Kurt Tucholsky, 'Augen in der Großstadt'<td>
+  </tr>    
+   <tr>
+    <td align="center" width="20%">8 October 2024</td>
+    <td width ="80%"><b>Velimir Khlebnikov and ‘beyonsense’ language</b><br>
+    'Artists of the World! (a written language for Planet Earth: a common system of hieroglyphs for the people of our planet)'<td>
+  </tr>
+</table>
 
 <!-- Berlin Sessions Spring/Summer 2024 -->
 
