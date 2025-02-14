@@ -90,7 +90,7 @@ The sessions have been devised by participants in the group, including Eddie Bol
   </tr>
   <tr>
     <td align="center" width="20%">14 May 2024</td>
-    <td width ="80%"><b>Else Lasker Schüler: Poetry and Visual Art</b><br>
+    <td width ="80%"><b>Else Lasker-Schüler: Poetry and Visual Art</b><br>
     'Weltflucht', musical score for 'Weltflucht' by Herwarth Walden, 'Elbanaff', 'Heimweh', 'Asser Mëmëd Schalomein Jussuf', 'Thebes with Jussuf', 'Selbstporträt', cover of <i>Ich räume auf!</i> </td>
   </tr>  
 </table>
