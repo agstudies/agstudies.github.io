@@ -57,19 +57,19 @@ The sessions have been devised by participants in the group, including Eddie Bol
   <tr>
     <td align="center" width="20%">17 December 2024</td>
     <td width ="80%"><b>Films by Lotte Reiniger</b><br>
-    <i>Der fliegende Koffer</i> (1921), <i>Aschenputtel</i> (1922), <i>Das Geheimnis der Marquise</i> (1922)<td>
+    <i>Der fliegende Koffer</i> (1921), <i>Aschenputtel</i> (1922), <i>Das Geheimnis der Marquise</i> (1922)</td>
   </tr>
   <tr>
     <td align="center" width="20%">12 November 2024</td>
     <td width ="80%"><b>Poems by Mascha Kaléko</b><br>
     'Ein kleiner Mann stirbt', '(Für Sonja P.) Blasse Tage', 'Melancholie eines Alleinstehenden', 'Frühlingslied für Zugereiste', 'Der kleine Unterschied', 'Memento', 'Der Flamingo', 'Der Storch', 'Bei Känguruhs', 'Krokodilemma', 'Die Schildkröte', 'Rezept'<br>
     Bertolt Brecht, '700 Intellektuelle beten einen Öltank an' <br>
-    Kurt Tucholsky, 'Augen in der Großstadt'<td>
+    Kurt Tucholsky, 'Augen in der Großstadt'</td>
   </tr>    
    <tr>
     <td align="center" width="20%">8 October 2024</td>
     <td width ="80%"><b>Velimir Khlebnikov and ‘beyonsense’ language</b><br>
-    'Artists of the World! (a written language for Planet Earth: a common system of hieroglyphs for the people of our planet)'<td>
+    'Artists of the World! (a written language for Planet Earth: a common system of hieroglyphs for the people of our planet)'</td>
   </tr>
 </table>
 
