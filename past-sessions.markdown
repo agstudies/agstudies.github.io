@@ -37,7 +37,7 @@ The sessions have been devised by participants in the group, including Eddie Bol
 </table>
 --->
 
-<!-- Berlin Sessions Winter Semester 2024/25 -->
+<!-- Berlin Sessions Winter 2024/25 -->
 
 <table>
   <tr>
