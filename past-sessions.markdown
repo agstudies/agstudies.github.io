@@ -37,6 +37,40 @@ The sessions have been devised by participants in the group, including Eddie Bol
 </table>
 --->
 
+<!-- Berlin Sessions Summer 2025 -->
+
+<table>
+  <tr>
+    <th colspan="2" align="center">Berlin Sessions Summer 2025</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%">14 July 2025</td>
+    <td width ="80%"><b>Kurt Schwitters, <i>Ursonate</i></b><br>
+    Kurt Schwitters, <i>Ursonate</i>, 'An Anna Blume'</td>
+  </tr>  
+  <tr>
+    <td align="center" width="20%">24 June 2025</td>
+    <td width ="80%"><b>Grids: Bomberg to Bauhaus</b><br>
+      Rosalind Krauss, 'Grids'<br>
+    Selection of grid-based artworks by Gino Severini, David Bomberg, Wyndham Lewis, Hilma af Klint, Anni Albers, Richard Paul Lohse, Burgoyne Diller, François Morellet, Edna Andrade and others</td>
+  </tr>
+  <tr>
+    <td align="center">20 May 2025</td>
+    <td><b>Aldo Palazzeschi: The Pains and Pleasures of Futurism</b><br>
+      Aldo Palazzeschi, 'Il Controdolore' and 'Varietà'<br>
+      Excerpt from Henri Bergson, <i>Laughter</i><br>
+      Georges Bataille, 'Un-Knowing: Laughter and Tears'
+    </td>
+  </tr>
+  <tr>
+    <td align="center">22 April 2025</td>
+    <td><b>Surrealist Manifestoes</b><br>
+      André Breton, <i>Manifeste du surréalisme</i><br>
+      Ivan Goll, <i>Manifeste du surréalisme</i> and 'Exemple de surréalisme: le cinéma'<br>
+    </td>
+  </tr>
+</table>
+
 <!-- Berlin Sessions Winter 2024/25 -->
 
 <table>
