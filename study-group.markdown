@@ -5,11 +5,11 @@ permalink: /study-group/
 order: 1
 ---
 
-The Avant-Garde Studies group is **open to all** with an interest in the historical avant-garde - you don’t need to be a student or researcher to join.
+The Avant-Garde Studies group is **open to all** with an interest in the historical avant-garde. You don’t need to be a student or researcher to join.
 
-Sessions for the Summer Semester 2025 have now finished. New sessions for the Winter Semester will be scheduled soon.
+<!-- Sessions for the Summer Semester 2025 have now finished. New sessions for the Winter Semester will be scheduled soon. -->
 
-<!-- To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
+To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
 
 The reading for each session is distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>.
 
@@ -23,31 +23,31 @@ The reading for each session is distributed through our mailing list one week in
     <th>Location</th>
   </tr>
   <tr>
-    <td width="25%">22 April 2025</td>
+    <td width="25%">28 October 2025</td>
     <td width ="15%">7-8.30 pm</td>
-    <td width="35%"><b>Surrealist Manifestoes</b></td>
-    <td width="25%">Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
+    <td width="35%"><b>Wallace Stevens, 'The Man With the Blue Guitar'</b></td>
+    <td width="25%">Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
   </tr>
 <tr>
-    <td>20 May 2025</td>
+    <td>25 November 2025</td>
     <td>7-8.30 pm</td>
-    <td><b>Aldo Palazzeschi: Pains and Pleasures of Futurism</b></td>
-    <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
+    <td><b>The Heteronyms of Fernando Pessoa</b></td>
+    <td>Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
   </tr>
   <tr>
-    <td>24 June 2025</td>
+    <td>20 January 2026</td>
     <td>7-8.30 pm</td>
-    <td><b>Grids: Bomberg to Bauhaus</b></td>
-    <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
+    <td><b>Expressionist Architecture Between Utopia and the Market</b></td>
+    <td>Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
   </tr>  
    <tr>
-    <td>14 July 2025</td>
+    <td>10 February 2026</td>
     <td>7-8.30 pm</td>
-    <td><b>Kurt Schwitters, <i>Ursonate</i></b></td>
-    <td>Room 104, Centre for British Studies, Mohrenstraße 60, 10117 Berlin</td>
+    <td><b>Marcel Duchamp, the Readymade and Other Activities</b></td>
+    <td>Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
   </tr>  
 </table>
--->
+
 
 
 <!-- Share buttons BEGIN
