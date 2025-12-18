@@ -37,13 +37,13 @@ The reading for each session is distributed through our mailing list one week in
   <tr>
     <td>20 January 2026</td>
     <td>7-8.30 pm</td>
-    <td><b>Expressionist Architecture Between Utopia and the Market</b></td>
+    <td><b>NEW!! Marcel Duchamp, the Readymade and Other Activities</b></td>
     <td>Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
   </tr>  
    <tr>
     <td>10 February 2026</td>
     <td>7-8.30 pm</td>
-    <td><b>Marcel Duchamp, the Readymade and Other Activities</b></td>
+    <td><b>NEW!! Expressionist Architecture Between Utopia and the Market</b></td>
     <td>Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
   </tr>  
 </table>
