@@ -7,7 +7,7 @@ order: 2
 
 <!-- <h1>Past Sessions</h1>-->
 
-The sessions have been devised by participants in the group, including Eddie Bolger, Lucy Burns, Alessandro Cabiati, Rosa Chrystie-Lowe, Iris Colomb, Jo Cottrell, Dan Eltringham, Mischa Foster Poole, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Rebekka Jolley, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin, Sonya Permiakova, Michał Piotrowski, Mick Sheldon, Abigael van Alst, Christopher Webb and Christopher Wells.<br><br><br>
+The sessions have been devised by participants in the group, including Eddie Bolger, Lucy Burns, Alessandro Cabiati, Rosa Chrystie-Lowe, Iris Colomb, Jo Cottrell, Dan Eltringham, Mischa Foster Poole, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Rebekka Jolley, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin, Florian Mojem, Sonya Permiakova, Michał Piotrowski, Mick Sheldon, Abigael van Alst, Christopher Webb and Christopher Wells.<br><br><br>
 
 <!-- table template
 <table>
@@ -36,6 +36,49 @@ The sessions have been devised by participants in the group, including Eddie Bol
   </tr>
 </table>
 --->
+
+<!-- Berlin Sessions Winter 2025/26 -->
+
+<table>
+  <tr>
+    <th colspan="2" align="center">Berlin Sessions Winter 2025/26</th>
+  </tr>
+  <tr>
+    <td align="center">10 February 2026</td>
+    <td><b>Expressionist Architecture Between Utopia and the Market</b><br>
+      Bruno Taut, 'A Necessity'<br>
+      Paul Scheerbart, from <i>Glass Architecture</i><br>
+      Selected images of Taut's Glass House<br>
+      Frederic J. Schwartz, from <i>The Werkbund: Design Theory and Mass Culture Before the First World War</i>
+    </td>
+  </tr>  
+  <tr>
+    <td align="center">20 January 2026</td>
+    <td><b>Marcel Duchamp, the Readymade and Other Activities</b><br>
+      Marcel Duchamp, 'The Idea of Fabrication', '4. Readymades', 'The Great Trouble with Art in this Country', 'The Creative Act', 'Apropos of Readymades', 'Regions which are not ruled by time and space…'<br>
+      Selection of readymades by Marcel Duchamp<br>
+      Winthrop Sargeant, 'Dada's Daddy'
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">25 November 2025</td>
+    <td width ="80%"><b>The Heteronyms of Fernando Pessoa</b><br>
+      Alberto Caiero, poems from <i>O Guardador de Rebanhos</i>, <i>O Pastor   Amoroso</i> and <i>Poemas Inconjuntos</i>, translations by Richard Zenith<br>
+      Ricardo Reis, poems from <i>Odes</i>, translations by Jonathan Griffin<br>
+      Àlvaro de Campos, from <i>Ode Triunfal</i> and poems from <i>Poesias de Álvaro de Campos</i>, translations by Jonathan Griffin<br>
+      Fernando Pessoa, poems from <i>Poesias</i> and from <i>Chuva Obliqua</i>, translations by Jonathan Griffin<br>
+      'Carta Inédita de Fernando Pessoa' [Letter to Adolfo
+Casais Monteiro]
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="20%">28 October 2025</td>
+    <td width ="80%"><b>Wallace Stevens, 'The Man With the Blue Guitar'</b><br>
+      Wallace Stevens, 'The Man With the Blue Guitar', 'The Relations Between Poetry and Painting', 'Six Significant Landscapes, 'Anecdote of the Jar', 'The Latest Freed Man', 'Angel Surrounded by Paysans'<br>
+      Selection of related artworks by Pablo Picasso, Paul Klee, Georges Braques, Jean Labasque, and Anatole Vidal
+    </td>
+  </tr>
+</table>
 
 <!-- Berlin Sessions Summer 2025 -->
 
