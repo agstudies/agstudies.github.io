@@ -9,9 +9,9 @@ The Avant-Garde Studies group is **open to all** with an interest in the histori
 
 Until 2021 the group met at Birkbeck College, London. **Current meetings take place at the Centre for British Studies, HU Berlin.**
 
-<!-- Sessions for the Winter Semester 2025/26 have now finished. New sessions for the Summer Semester will be scheduled soon. -->
+Sessions for the Summer Semester 2026 have now finished. New sessions for the Winter Semester will be scheduled soon.
 
-To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
+<!-- To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
 
 The reading for each session is distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>.
 
@@ -49,5 +49,5 @@ The reading for each session is distributed through our mailing list one week in
     <td>Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
   </tr>  
 </table>
-
+-->
 For a list of all previous sessions click [here](/past-sessions).
