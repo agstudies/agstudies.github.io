@@ -7,7 +7,7 @@ order: 2
 
 <!-- <h1>Past Sessions</h1>-->
 
-The sessions have been devised by participants in the group, including Eddie Bolger, Lucy Burns, Alessandro Cabiati, Rosa Chrystie-Lowe, Iris Colomb, Jo Cottrell, Dan Eltringham, Mischa Foster Poole, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Rebekka Jolley, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin, Florian Mojem, Sonya Permiakova, Michał Piotrowski, Mick Sheldon, Abigael van Alst, Christopher Webb and Christopher Wells.<br><br><br>
+The sessions have been devised by participants in the group, including Eddie Bolger, Lucy Burns, Alessandro Cabiati, Rosa Chrystie-Lowe, Iris Colomb, Jo Cottrell, Dan Eltringham, Mischa Foster Poole, Alex Grafen, Toby Harris, Evi Heinz, Andrew Hodgson, Paul Ingram, Robyn Jakeman, Rebekka Jolley, Joseph LaBine, Sean Langford, Bertrand Marilier, Matt Martin, Florian Mojem, Sonya Permiakova, Michał Piotrowski, Mick Sheldon, Sami Sjöberg, Abigael van Alst, James Vliexs, Christopher Webb and Christopher Wells.<br><br><br>
 
 <!-- table template
 <table>
@@ -36,6 +36,48 @@ The sessions have been devised by participants in the group, including Eddie Bol
   </tr>
 </table>
 --->
+
+<!-- Berlin Sessions Summer 2026 -->
+
+<table>
+  <tr>
+    <th colspan="2" align="center">Berlin Sessions Summer 2026</th>
+  </tr>
+  <tr>
+    <td align="center">7 July 2026</td>
+    <td><b>Mass Observation: Documentary and the Avant-Garde</b><br>
+      Letters by Charles Madge, Tom Harrisson and Humphrey Jennings publisheed in the <i>New Statesman</i><br>
+      Excerpts from <i>May the Twelfth: Mass-Observation Day-Surveys 1937</i>, ed. by Humphrey Jennings and Charles Madge<br>
+      Charles Madge, 'Bourgeois News'
+    </td>
+  </tr>  
+  <tr>
+    <td align="center">9 June 2026</td>
+    <td><b>Theology and Expressionism: Barth, Tillich, and Maritain</b><br>
+      Jacques Maritain, ‘An Essay on Art’, trans. by Joseph W. Evans<br>
+      Paul Tillich, ‘Art and Ultimate Reality’<br>
+      Karl Barth, 'The Epistle to the Romans', trans. by Edwyn C. Hoskyns<br>
+      Excerpt from Benjamin Lazier, <i>God Interrupted: Heresy and the European Imagination
+between the World Wars</i><br>
+      Excerpt from Stephen Schloesser, <i>Jazz Age Catholicism: Mystic Modernism in Postwar Paris, 1919–1933</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">8 May 2026</td>
+    <td width ="80%"><b>The College of Sociology, Anti-Fascism and Authoritarian Politics</b><br>
+      Georges Bataille, 'What We Undertook a Few Months Ago...', 'The Sorcerer's Apprentice', 'Popular Front in the Streets'<br>
+      Roger Caillois, 'The Winter Wind', 'Note on the Foundation of a College of Sociology'      
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="20%">13 April 2026</td>
+    <td width ="80%"><b>Translating Alfred Jarry's <i>Ubu Roi</i></b><br>
+      Alfred Jarry, <i>Ubu Roi</i><br>
+      <i>Ubu Rex</i>, trans. by David Copelin<br>
+      <i>Ubu Roi</i>, trans. by Paul Edwards
+    </td>
+  </tr>
+</table>
 
 <!-- Berlin Sessions Winter 2025/26 -->
 
