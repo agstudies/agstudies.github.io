@@ -46,7 +46,7 @@ The sessions have been devised by participants in the group, including Eddie Bol
   <tr>
     <td align="center">7 July 2026</td>
     <td><b>Mass Observation: Documentary and the Avant-Garde</b><br>
-      Letters by Charles Madge, Tom Harrisson and Humphrey Jennings publisheed in the <i>New Statesman</i><br>
+      Letters by Charles Madge, Tom Harrisson and Humphrey Jennings published in the <i>New Statesman</i><br>
       Excerpts from <i>May the Twelfth: Mass-Observation Day-Surveys 1937</i>, ed. by Humphrey Jennings and Charles Madge<br>
       Charles Madge, 'Bourgeois News'
     </td>
