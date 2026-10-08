@@ -9,9 +9,9 @@ The Avant-Garde Studies group is **open to all** with an interest in the histori
 
 Until 2021 the group met at Birkbeck College, London. **Current meetings take place at the Centre for British Studies, HU Berlin.**
 
-Sessions for the Summer Semester 2026 have now finished. New sessions for the Winter Semester will be scheduled soon.
+<!--  Sessions for the Summer Semester 2026 have now finished. New sessions for the Winter Semester will be scheduled soon. -->
 
-<!-- To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
+To participate, simply come along to one of our discussion sessions. You can find a calendar of our upcoming sessions below.
 
 The reading for each session is distributed through our mailing list one week in advance. If you've missed the cut-off point but would still like to receive the materials, feel free to <a class="u-email" href="mailto:{{ site.email }}">get in touch</a>.
 
@@ -25,29 +25,35 @@ The reading for each session is distributed through our mailing list one week in
     <th>Location</th>
   </tr>
   <tr>
-    <td width="25%">13 April 2026</td>
-    <td width ="15%">7-8.30 pm</td>
-    <td width="35%"><b>Translating Alfred Jarry's <i>Ubu Roi</i></b></td>
-    <td width="25%">Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
+    <td width="25%">27 October 2026</td>
+    <td width ="15%"><b>NEW TIME</b><br>6.30-8.00 pm</td>
+    <td width="35%"><b><i>Helhesten</i> (1941–44) and the Danish Avant-Garde</b></td>
+    <td width="25%"><b>NEW VENUE<br></b>Room 123, Centre for British Studies, Schönhauser Allee 10-11, 10119 Berlin</td>
   </tr>
 <tr>
-    <td>8 May 2026</td>
-    <td>7-8.30 pm</td>
-    <td><b>The College of Sociology, Anti-Fascism and Authoritarian Politics</b></td>
-    <td>Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
+    <td>18 November 2026</td>
+    <td>6.30-8.00 pm</td>
+    <td><b>The New Schools in Russian Poetry: Ilya Zdanevich and Zaum</b></td>
+    <td>Room 123, Centre for British Studies, Schönhauser Allee 10-11, 10119 Berlin</td>
   </tr>
   <tr>
-    <td>9 June 2026</td>
-    <td>7-8.30 pm</td>
-    <td><b>Theology and Expressionism: Barth, Tillich and Maritain</b></td>
-    <td>Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
+    <td>17 December 2026</td>
+    <td>6.30-8.00 pm</td>
+    <td><b>Christmas Edition: BYOT (Bring Your Own Text)</b></td>
+    <td>Room 123, Centre for British Studies, Schönhauser Allee 10-11, 10119 Berlin</td>
   </tr>  
    <tr>
-    <td>7 July 2026</td>
-    <td>7-8.30 pm</td>
-    <td><b>Mass Observation: Documentary and the Avant-Garde</b></td>
-    <td>Room 104, Centre for British Studies, Anton-Wilhelm-Amo-Str. 60, 10117 Berlin</td>
+    <td>22 January 2027</td>
+    <td>6.30-8.00 pm</td>
+    <td><b>“Surrealism is Dead, Long Live Death!”: Archival Reconstruction of the Surrealist Group in England (1967–72)</b></td>
+    <td>Room 123, Centre for British Studies, Schönhauser Allee 10-11, 10119 Berlin</td>
+  </tr>  
+  <tr>
+    <td>15 February 2027</td>
+    <td>6.30-8.00 pm</td>
+    <td><b>Avant-Garde Poetry in the <i>Scottish Chapbook</i></b></td>
+    <td>Room 123, Centre for British Studies, Schönhauser Allee 10-11, 10119 Berlin</td>
   </tr>  
 </table>
--->
+
 For a list of all previous sessions click [here](/past-sessions).
