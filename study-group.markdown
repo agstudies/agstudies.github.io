@@ -25,8 +25,8 @@ The reading for each session is distributed through our mailing list one week in
     <th>Location</th>
   </tr>
   <tr>
-    <td width="25%">27 October 2026</td>
-    <td width ="15%"><b>NEW TIME</b><br>6.30-8.00 pm</td>
+    <td width="20%">27 October 2026</td>
+    <td width ="20%"><b>NEW TIME</b><br>6.30-8.00 pm</td>
     <td width="35%"><b><i>Helhesten</i> (1941–44) and the Danish Avant-Garde</b></td>
     <td width="25%"><b>NEW VENUE<br></b>Room 123, Centre for British Studies, Schönhauser Allee 10-11, 10119 Berlin</td>
   </tr>
